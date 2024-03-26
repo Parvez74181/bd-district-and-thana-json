@@ -1,0 +1,3872 @@
+{
+  "districts": [
+    {
+      "district": "B.Baria",
+      "thana": [
+        {
+          "english_name": "Akhaura",
+          "bangla_name": "আখাউরা"
+        },
+        {
+          "english_name": "Asugonj",
+          "bangla_name": "আসুগঞ্জ"
+        },
+        {
+          "english_name": "Banchharampur",
+          "bangla_name": "বাঞ্ছারামপুর"
+        },
+        {
+          "english_name": "Bijoynagar",
+          "bangla_name": "বিজয়নগর"
+        },
+        {
+          "english_name": "Brahamanbaria Sadar",
+          "bangla_name": "ব্রাহ্মণবাড়িয়া সদর"
+        },
+        {
+          "english_name": "Kasba",
+          "bangla_name": "কসবা"
+        },
+        {
+          "english_name": "Nabinagar",
+          "bangla_name": "নবীনগর"
+        },
+        {
+          "english_name": "Nasirnagar",
+          "bangla_name": "নাসিরনগর"
+        },
+        {
+          "english_name": "Sarail",
+          "bangla_name": "সরাইল"
+        }
+      ]
+    },
+    {
+      "district": "Bagerhat",
+      "thana": [
+        {
+          "english_name": "Bagerhat Sadar",
+          "bangla_name": "বাগেরহাট সদর"
+        },
+        {
+          "english_name": "Chitalmari",
+          "bangla_name": "চিতলমারী"
+        },
+        {
+          "english_name": "Fakirhat",
+          "bangla_name": "ফকিরহাট"
+        },
+        {
+          "english_name": "Kachua",
+          "bangla_name": "কচুয়া"
+        },
+        {
+          "english_name": "Mollahat",
+          "bangla_name": "মোল্লাহাট"
+        },
+        {
+          "english_name": "Mongla",
+          "bangla_name": "মংলা"
+        },
+        {
+          "english_name": "Morelganj",
+          "bangla_name": "মোরেলগঞ্জ"
+        },
+        {
+          "english_name": "Rampal",
+          "bangla_name": "রামপাল"
+        },
+        {
+          "english_name": "Rayenda",
+          "bangla_name": "রায়েন্দা"
+        },
+        {
+          "english_name": "Sarankhola",
+          "bangla_name": "সারাংখোলা"
+        }
+      ]
+    },
+    {
+      "district": "Bandarban",
+      "thana": [
+        {
+          "english_name": "Alikadam",
+          "bangla_name": "আলীকদম"
+        },
+        {
+          "english_name": "Bandarban Sadar",
+          "bangla_name": "বান্দরবান সদর"
+        },
+        {
+          "english_name": "Kalaghata",
+          "bangla_name": "কালাঘাটা"
+        },
+        {
+          "english_name": "Lama",
+          "bangla_name": "লামা"
+        },
+        {
+          "english_name": "Naikhong",
+          "bangla_name": "নাইখং"
+        },
+        {
+          "english_name": "Roanchhari",
+          "bangla_name": "রোয়াংছড়ি"
+        },
+        {
+          "english_name": "Ruma",
+          "bangla_name": "রুমা"
+        },
+        {
+          "english_name": "Thanchi",
+          "bangla_name": "থানছি"
+        }
+      ]
+    },
+    {
+      "district": "Barguna",
+      "thana": [
+        {
+          "english_name": "Amtoly",
+          "bangla_name": "আমতলী"
+        },
+        {
+          "english_name": "Bamna",
+          "bangla_name": "বামনা"
+        },
+        {
+          "english_name": "Barguna Sadar",
+          "bangla_name": "বরগুনা সদর"
+        },
+        {
+          "english_name": "Betage",
+          "bangla_name": "বেতাগি"
+        },
+        {
+          "english_name": "Pathor ghata",
+          "bangla_name": "পাথর ঘাটা"
+        },
+        {
+          "english_name": "Taltoly",
+          "bangla_name": "তালতলী"
+        }
+      ]
+    },
+    {
+      "district": "Barisal",
+      "thana": [
+        {
+          "english_name": "Agailzhara",
+          "bangla_name": "আগাইলজাহারা"
+        },
+        {
+          "english_name": "Babuganj",
+          "bangla_name": "বাবুগঞ্জ"
+        },
+        {
+          "english_name": "Bakergonj",
+          "bangla_name": "বাকেরগঞ্জ"
+        },
+        {
+          "english_name": "Banaripara",
+          "bangla_name": "বানারীপাড়া"
+        },
+        {
+          "english_name": "Barisal Bandor Thana",
+          "bangla_name": "বরিশাল বন্দর থানা"
+        },
+        {
+          "english_name": "Barisal Sadar",
+          "bangla_name": "বরিশাল সদর"
+        },
+        {
+          "english_name": "Gauronodi",
+          "bangla_name": "গৌরনদী"
+        },
+        {
+          "english_name": "Hizla",
+          "bangla_name": "হিজলা"
+        },
+        {
+          "english_name": "Kotowali",
+          "bangla_name": "কোটোয়ালী"
+        },
+        {
+          "english_name": "Mahendiganj",
+          "bangla_name": "মহেন্দীগঞ্জ"
+        },
+        {
+          "english_name": "Muladi",
+          "bangla_name": "মুলাদি"
+        },
+        {
+          "english_name": "Wazirpur Powrosova",
+          "bangla_name": "ওয়াজিরপুর পৌরসভা"
+        }
+      ]
+    },
+    {
+      "district": "Bhola",
+      "thana": [
+        {
+          "english_name": "Bhola Sadar",
+          "bangla_name": "ভোলা সদর"
+        },
+        {
+          "english_name": "Burhanuddin",
+          "bangla_name": "বুরহানউদ্দিন"
+        },
+        {
+          "english_name": "Char fashion",
+          "bangla_name": "চর ফ্যাশন"
+        },
+        {
+          "english_name": "Dokkhin aicha",
+          "bangla_name": "দক্ষিণ আইচা"
+        },
+        {
+          "english_name": "Doulatkhan",
+          "bangla_name": "দৌলতখান"
+        },
+        {
+          "english_name": "Lalmohon",
+          "bangla_name": "লালমোহন"
+        },
+        {
+          "english_name": "Tazumuddin",
+          "bangla_name": "তাজুমুদ্দিন"
+        }
+      ]
+    },
+    {
+      "district": "Bogra",
+      "thana": [
+        {
+          "english_name": "Adamdighi",
+          "bangla_name": "আদমদিঘি"
+        },
+        {
+          "english_name": "Bogra - Gabtoli",
+          "bangla_name": "বগুড়া - গাবতলী"
+        },
+        {
+          "english_name": "Bogra Sadar",
+          "bangla_name": "বগুড়া সদর"
+        },
+        {
+          "english_name": "Dhunat",
+          "bangla_name": "ধুনট"
+        },
+        {
+          "english_name": "Dupchachia",
+          "bangla_name": "দুপচাচিয়া"
+        },
+        {
+          "english_name": "Kahalu",
+          "bangla_name": "কাহালু"
+        },
+        {
+          "english_name": "Nandigram",
+          "bangla_name": "নন্দীগ্রাম"
+        },
+        {
+          "english_name": "Sariakandi",
+          "bangla_name": "সারিয়াকান্দি"
+        },
+        {
+          "english_name": "Shajahanpur",
+          "bangla_name": "শাহজাহানপুর"
+        },
+        {
+          "english_name": "Shantaher",
+          "bangla_name": "শান্তাহার"
+        },
+        {
+          "english_name": "Sherpur",
+          "bangla_name": "শেরপুর"
+        },
+        {
+          "english_name": "Shibganj",
+          "bangla_name": "শিবগঞ্জ"
+        },
+        {
+          "english_name": "Sonatola",
+          "bangla_name": "সোনাটলা"
+        }
+      ]
+    },
+    {
+      "district": "Chandpur",
+      "thana": [
+        {
+          "english_name": "Chandpur Sadar",
+          "bangla_name": "চাঁদপুর সদর"
+        },
+        {
+          "english_name": "Faridganj",
+          "bangla_name": "ফরিদগঞ্জ"
+        },
+        {
+          "english_name": "Hayemchar",
+          "bangla_name": "হায়েমচর"
+        },
+        {
+          "english_name": "Haziganj",
+          "bangla_name": "হাজীগঞ্জ"
+        },
+        {
+          "english_name": "Kachua",
+          "bangla_name": "কচুয়া"
+        },
+        {
+          "english_name": "Matlab",
+          "bangla_name": "মতলব"
+        },
+        {
+          "english_name": "Matlab-Uttar",
+          "bangla_name": "মতলব-উত্তর"
+        },
+        {
+          "english_name": "Shahrasti",
+          "bangla_name": "শাহরাস্তি"
+        }
+      ]
+    },
+    {
+      "district": "Chapainawabganj",
+      "thana": [
+        {
+          "english_name": "Bholahat",
+          "bangla_name": "ভোলাহাট"
+        },
+        {
+          "english_name": "Chapainawabganj Sadar",
+          "bangla_name": "চাঁপাইনবাবগঞ্জ সদর"
+        },
+        {
+          "english_name": "Gomastapur",
+          "bangla_name": "গোমস্তাপুর"
+        },
+        {
+          "english_name": "Nachole",
+          "bangla_name": "নাচোল"
+        },
+        {
+          "english_name": "Shibganj",
+          "bangla_name": "শিবগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Chattogram",
+      "thana": [
+        {
+          "english_name": "Khulshi",
+          "bangla_name": "খুলশী"
+        },
+        {
+          "english_name": "Akbarsha",
+          "bangla_name": "আকবরশা"
+        },
+        {
+          "english_name": "Anawara",
+          "bangla_name": "আনোয়ারা"
+        },
+        {
+          "english_name": "Andarkilla",
+          "bangla_name": "আন্দারকিল্লা"
+        },
+        {
+          "english_name": "Anowara",
+          "bangla_name": "আনোয়ারা"
+        },
+        {
+          "english_name": "Bakoliya thana",
+          "bangla_name": "বাকলিয়া থানা"
+        },
+        {
+          "english_name": "Bashkhali",
+          "bangla_name": "বাশখালী"
+        },
+        {
+          "english_name": "Bayazid",
+          "bangla_name": "বায়াজিদ"
+        },
+        {
+          "english_name": "Boalkhali",
+          "bangla_name": "বোয়ালখালী"
+        },
+        {
+          "english_name": "Bondor",
+          "bangla_name": "বন্দর"
+        },
+        {
+          "english_name": "CTG - Lohagara",
+          "bangla_name": "চট্টগ্রাম - লোহাগড়া"
+        },
+        {
+          "english_name": "Chandanaish",
+          "bangla_name": "চন্দনাইশ"
+        },
+        {
+          "english_name": "Chandgaon",
+          "bangla_name": "চাঁদগাঁও"
+        },
+        {
+          "english_name": "Chawkbazar (Chattogram)",
+          "bangla_name": "চকবাজার (চট্টগ্রাম)"
+        },
+        {
+          "english_name": "Dohajari",
+          "bangla_name": "দোহাজারি"
+        },
+        {
+          "english_name": "Double mooring",
+          "bangla_name": "ডাবল মোরিং"
+        },
+        {
+          "english_name": "EPZ",
+          "bangla_name": "ইপিজেড"
+        },
+        {
+          "english_name": "East Joara",
+          "bangla_name": "ইস্ট জোয়ারা"
+        },
+        {
+          "english_name": "Enayet bazar",
+          "bangla_name": "এনায়েত বাজার"
+        },
+        {
+          "english_name": "Fatikchhari",
+          "bangla_name": "ফটিকছড়ি"
+        },
+        {
+          "english_name": "Halishahar",
+          "bangla_name": "হালিশহর"
+        },
+        {
+          "english_name": "Hathazari",
+          "bangla_name": "হাটহাজারী"
+        },
+        {
+          "english_name": "Karnophuli",
+          "bangla_name": "কর্ণফুলি"
+        },
+        {
+          "english_name": "Keranihat",
+          "bangla_name": "কেরানীহাট"
+        },
+        {
+          "english_name": "Kotowali Chittagong",
+          "bangla_name": "কোতোয়ালী চট্টগ্রাম"
+        },
+        {
+          "english_name": "Kotwali (Chattogram)",
+          "bangla_name": "কোতোয়ালী (চট্টগ্রাম)"
+        },
+        {
+          "english_name": "Mirsharai",
+          "bangla_name": "মিরশারাই"
+        },
+        {
+          "english_name": "Nasirabad",
+          "bangla_name": "নাসিরাবাদ"
+        },
+        {
+          "english_name": "Nazirhat",
+          "bangla_name": "নাজিরহাট"
+        },
+        {
+          "english_name": "New Market CTG",
+          "bangla_name": "নিউ মার্কেট চট্টগ্রাম"
+        },
+        {
+          "english_name": "Pahartali",
+          "bangla_name": "পাহাড়তলী"
+        },
+        {
+          "english_name": "Panchlaish ctg",
+          "bangla_name": "পাঁচলাইশ চট্টগ্রাম"
+        },
+        {
+          "english_name": "Patia",
+          "bangla_name": "পাটিয়া"
+        },
+        {
+          "english_name": "Rangunia",
+          "bangla_name": "রাঙ্গুনিয়া"
+        },
+        {
+          "english_name": "Raozan",
+          "bangla_name": "রাউজান"
+        },
+        {
+          "english_name": "Sadarghat (Chattogram)",
+          "bangla_name": "সদরঘাট (চট্টগ্রাম)"
+        },
+        {
+          "english_name": "Sandwip",
+          "bangla_name": "সন্দ্বীপ"
+        },
+        {
+          "english_name": "Satkaniya",
+          "bangla_name": "সাতকানিয়া"
+        },
+        {
+          "english_name": "Sitakunda",
+          "bangla_name": "সীতাকুণ্ডা"
+        },
+        {
+          "english_name": "Vatiary",
+          "bangla_name": "ভাটিয়ারি"
+        },
+        {
+          "english_name": "Zorarganj",
+          "bangla_name": "জোড়ারগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Chuadanga",
+      "thana": [
+        {
+          "english_name": "Alamdanga",
+          "bangla_name": "আলমডাঙ্গা"
+        },
+        {
+          "english_name": "Chuadanga Sadar",
+          "bangla_name": "চুয়াডাঙ্গা সদর"
+        },
+        {
+          "english_name": "Damurhuda",
+          "bangla_name": "দামুরহুদা"
+        },
+        {
+          "english_name": "Darshana",
+          "bangla_name": "দার্শনা"
+        },
+        {
+          "english_name": "Doulatganj",
+          "bangla_name": "দৌলতগঞ্জ"
+        },
+        {
+          "english_name": "Jiban nagar",
+          "bangla_name": "জীবন নগর"
+        }
+      ]
+    },
+    {
+      "district": "Cox's Bazar",
+      "thana": [
+        {
+          "english_name": "Chakaria",
+          "bangla_name": "চকরিয়া"
+        },
+        {
+          "english_name": "Cox's bazar Sadar",
+          "bangla_name": "কক্সবাজার সদর"
+        },
+        {
+          "english_name": "Eidgah",
+          "bangla_name": "ঈদগাহ"
+        },
+        {
+          "english_name": "Kutubdia",
+          "bangla_name": "কুতুবদিয়া"
+        },
+        {
+          "english_name": "Moheshkhali",
+          "bangla_name": "মহেশখালী"
+        },
+        {
+          "english_name": "Pakua",
+          "bangla_name": "পাকুয়া"
+        },
+        {
+          "english_name": "Ramu",
+          "bangla_name": "রামু"
+        },
+        {
+          "english_name": "Teknaf",
+          "bangla_name": "টেকনাফ"
+        },
+        {
+          "english_name": "Ukhia",
+          "bangla_name": "উখিয়া"
+        }
+      ]
+    },
+    {
+      "district": "Cumilla",
+      "thana": [
+        {
+          "english_name": "B.Para",
+          "bangla_name": "বি. পাড়া"
+        },
+        {
+          "english_name": "Barura",
+          "bangla_name": "বরুড়া"
+        },
+        {
+          "english_name": "Burichang",
+          "bangla_name": "বুড়িচং"
+        },
+        {
+          "english_name": "Cantonment",
+          "bangla_name": "ক্যান্টনমেন্ট"
+        },
+        {
+          "english_name": "Chandina",
+          "bangla_name": "চান্দিনা"
+        },
+        {
+          "english_name": "Chauddagram",
+          "bangla_name": "চৌদ্দগ্রাম"
+        },
+        {
+          "english_name": "Comilla Companigonj",
+          "bangla_name": "কুমিল্লা কোম্পানিগঞ্জ"
+        },
+        {
+          "english_name": "Cumilla Sadar",
+          "bangla_name": "কুমিল্লা সদর"
+        },
+        {
+          "english_name": "Daudkandi",
+          "bangla_name": "দেউড়কান্দি"
+        },
+        {
+          "english_name": "Devidwar",
+          "bangla_name": "দেবিদ্বার"
+        },
+        {
+          "english_name": "Eliotgonj",
+          "bangla_name": "ইলিয়টগঞ্জ"
+        },
+        {
+          "english_name": "Gouripur",
+          "bangla_name": "গৌরীপুর"
+        },
+        {
+          "english_name": "Homna",
+          "bangla_name": "হোমনা"
+        },
+        {
+          "english_name": "Kotbari",
+          "bangla_name": "কোটবাড়ি"
+        },
+        {
+          "english_name": "Laksam",
+          "bangla_name": "লাকসাম"
+        },
+        {
+          "english_name": "Lalmai",
+          "bangla_name": "লালমাই"
+        },
+        {
+          "english_name": "Megna",
+          "bangla_name": "মেগনা"
+        },
+        {
+          "english_name": "Mia-Bazar",
+          "bangla_name": "মিয়া-বাজার"
+        },
+        {
+          "english_name": "Monohorgonj",
+          "bangla_name": "মনোহরগঞ্জ"
+        },
+        {
+          "english_name": "Muddafarganj",
+          "bangla_name": "মুদ্দাফরগঞ্জ"
+        },
+        {
+          "english_name": "Muradnagar",
+          "bangla_name": "মুরাদনগর"
+        },
+        {
+          "english_name": "Nangolkot",
+          "bangla_name": "নাঙ্গলকোট"
+        },
+        {
+          "english_name": "Sadar Dakkhin",
+          "bangla_name": "সদর দক্ষিণ"
+        },
+        {
+          "english_name": "South Daudkandi",
+          "bangla_name": "সাউথ দেউড়কান্দি"
+        },
+        {
+          "english_name": "Titash",
+          "bangla_name": "তিতাস"
+        }
+      ]
+    },
+    {
+      "district": "Dhaka",
+      "thana": [
+        {
+          "english_name": "Dhamrai , Savar",
+          "bangla_name": "ধামরাই, সাভার"
+        },
+        {
+          "english_name": "Savar-Nabinagar",
+          "bangla_name": "সাভার-নবীনগর"
+        },
+        {
+          "english_name": "house building",
+          "bangla_name": "হাউস বিল্ডিং"
+        },
+        {
+          "english_name": "60 feet",
+          "bangla_name": "৬০ ফিট"
+        },
+        {
+          "english_name": "Abdullahpur Uttara",
+          "bangla_name": "আব্দুল্লাহপুর, উত্তরা"
+        },
+        {
+          "english_name": "Abul Hotel",
+          "bangla_name": "আবুল হোটেল"
+        },
+        {
+          "english_name": "Adabor",
+          "bangla_name": "আদাবর"
+        },
+        {
+          "english_name": "Adarsha Nagar - Kutubpur",
+          "bangla_name": "আদর্শ নগর - কুতুবপুর"
+        },
+        {
+          "english_name": "Aftab Nagar",
+          "bangla_name": "আফতাব নগর"
+        },
+        {
+          "english_name": "Agargaon",
+          "bangla_name": "আগারগাঁও"
+        },
+        {
+          "english_name": "Agargaon-Taltola",
+          "bangla_name": "আগারগাঁও-তালতলা"
+        },
+        {
+          "english_name": "Arambag",
+          "bangla_name": "আরামবাগ"
+        },
+        {
+          "english_name": "Ashkona",
+          "bangla_name": "আশকোনা"
+        },
+        {
+          "english_name": "Ati Bazar",
+          "bangla_name": "আতি বাজার"
+        },
+        {
+          "english_name": "Azimpur (Lalbag)",
+          "bangla_name": "আজিমপুর (লালবাগ)"
+        },
+        {
+          "english_name": "Badda",
+          "bangla_name": "বাড্ডা"
+        },
+        {
+          "english_name": "Baily Road",
+          "bangla_name": "বেইলী রোড"
+        },
+        {
+          "english_name": "Bakshi Bazar",
+          "bangla_name": "বকশী বাজার"
+        },
+        {
+          "english_name": "Balughat",
+          "bangla_name": "বালুঘাট"
+        },
+        {
+          "english_name": "Banani",
+          "bangla_name": "বনানী"
+        },
+        {
+          "english_name": "Banani DOHS",
+          "bangla_name": "বনানী ডিওএইচএস"
+        },
+        {
+          "english_name": "Banasree (Block A-G)",
+          "bangla_name": "বনশ্রী (ব্লক এ-জি)"
+        },
+        {
+          "english_name": "Banasree (Block H-J)",
+          "bangla_name": "বনশ্রী (ব্লক এইচ-জে)"
+        },
+        {
+          "english_name": "Bangla bazar",
+          "bangla_name": "বাংলা বাজার"
+        },
+        {
+          "english_name": "Bangshal",
+          "bangla_name": "বংশাল"
+        },
+        {
+          "english_name": "Baridhara DOHS",
+          "bangla_name": "বারিধারা ডিওএইচএস"
+        },
+        {
+          "english_name": "Baridhara Diplomatic Zone",
+          "bangla_name": "বারিধারা ডিপ্লোমেটিক জোন"
+        },
+        {
+          "english_name": "Baridhara J Block",
+          "bangla_name": "বারিধারা জে ব্লক"
+        },
+        {
+          "english_name": "Bashabo",
+          "bangla_name": "বাসাবো"
+        },
+        {
+          "english_name": "Bashundhara",
+          "bangla_name": "বসুন্ধরা"
+        },
+        {
+          "english_name": "Bawnia",
+          "bangla_name": "বাওনিয়া"
+        },
+        {
+          "english_name": "Begunbari",
+          "bangla_name": "বেগুনবাড়ি"
+        },
+        {
+          "english_name": "Benaroshi Polli",
+          "bangla_name": "বেনারশি পল্লী"
+        },
+        {
+          "english_name": "Benaroshi polli Blok A",
+          "bangla_name": "বেনারশি পল্লী ব্লক এ"
+        },
+        {
+          "english_name": "Benaroshi polli Blok B,C",
+          "bangla_name": "বেনারশি পল্লী ব্লক বি,সি"
+        },
+        {
+          "english_name": "Benaroshi polli Blok D",
+          "bangla_name": "বেনারশি পল্লী ব্লক ডি"
+        },
+        {
+          "english_name": "Beraid",
+          "bangla_name": "বেরাইদ"
+        },
+        {
+          "english_name": "Block A, C, Mirpur 11",
+          "bangla_name": "ব্লক এ, সি, মিরপুর ১১"
+        },
+        {
+          "english_name": "Block A,B, Mirpur 6",
+          "bangla_name": "ব্লক এ, বি, মিরপুর ৬"
+        },
+        {
+          "english_name": "Block B, D, Mirpur 11",
+          "bangla_name": "ব্লক বি, ডি, মিরপুর ১১"
+        },
+        {
+          "english_name": "Block D,E , Mirpur 6",
+          "bangla_name": "ব্লক ডি, ই, মিরপুর ৬"
+        },
+        {
+          "english_name": "Block-E, Mirpur 12",
+          "bangla_name": "ব্লক-ই, মিরপুর ১২"
+        },
+        {
+          "english_name": "Boro Moghbazar",
+          "bangla_name": "বড় মগবাজার"
+        },
+        {
+          "english_name": "Bulk Merchant",
+          "bangla_name": "বাল্ক মার্চেন্ট"
+        },
+        {
+          "english_name": "Central Road",
+          "bangla_name": "সেন্ট্রাল রোড"
+        },
+        {
+          "english_name": "ChawkBazar (Dhaka)",
+          "bangla_name": "চকবাজার (ঢাকা)"
+        },
+        {
+          "english_name": "DIT Road",
+          "bangla_name": "ডিআইটি রোড"
+        },
+        {
+          "english_name": "Dakshinkhan",
+          "bangla_name": "দক্ষিণখান"
+        },
+        {
+          "english_name": "Darussalam",
+          "bangla_name": "দারুস্সালাম"
+        },
+        {
+          "english_name": "Demra",
+          "bangla_name": "ডেমরা"
+        },
+        {
+          "english_name": "Dhaka Medical",
+          "bangla_name": "ঢাকা মেডিক্যাল"
+        },
+        {
+          "english_name": "Dhaka University",
+          "bangla_name": "ঢাকা বিশ্ববিদ্যালয়"
+        },
+        {
+          "english_name": "Dhaka cantonment",
+          "bangla_name": "ঢাকা ক্যান্টনমেন্ট"
+        },
+        {
+          "english_name": "Dhanmondi",
+          "bangla_name": "ধানমন্ডি"
+        },
+        {
+          "english_name": "Dholpur",
+          "bangla_name": "ধলপুর"
+        },
+        {
+          "english_name": "Diabari",
+          "bangla_name": "ডিয়াবাড়ি"
+        },
+        {
+          "english_name": "Dohar",
+          "bangla_name": "দোহার"
+        },
+        {
+          "english_name": "ECB",
+          "bangla_name": "ইসিবি"
+        },
+        {
+          "english_name": "Elephant Road",
+          "bangla_name": "এলিফ্যান্ট রোড"
+        },
+        {
+          "english_name": "Equria Thana",
+          "bangla_name": "ইকুরিয়া থানা"
+        },
+        {
+          "english_name": "Eskaton",
+          "bangla_name": "ইস্কাটন"
+        },
+        {
+          "english_name": "Estern Housing",
+          "bangla_name": "ইস্টার্ণ হাউজিং"
+        },
+        {
+          "english_name": "Extension Pallabi",
+          "bangla_name": "এক্সটেনশন পল্লবী"
+        },
+        {
+          "english_name": "Faidabad",
+          "bangla_name": "ফাইদাবাদ"
+        },
+        {
+          "english_name": "Faridabad",
+          "bangla_name": "ফরিদাবাদ"
+        },
+        {
+          "english_name": "Farmgate",
+          "bangla_name": "ফার্মগেট"
+        },
+        {
+          "english_name": "Gandaria",
+          "bangla_name": "গন্ডারিয়া"
+        },
+        {
+          "english_name": "Ganobhabon",
+          "bangla_name": "গনভবন"
+        },
+        {
+          "english_name": "Giridhara Abashik",
+          "bangla_name": "গিরিধর আবাসিক"
+        },
+        {
+          "english_name": "Gopibagh",
+          "bangla_name": "গোপীবাগ"
+        },
+        {
+          "english_name": "Goran",
+          "bangla_name": "গোরান"
+        },
+        {
+          "english_name": "Gulbagh",
+          "bangla_name": "গুলবাগ"
+        },
+        {
+          "english_name": "Gulisthan",
+          "bangla_name": "গুলিস্থান"
+        },
+        {
+          "english_name": "Gulshan 1",
+          "bangla_name": "গুলশান ১"
+        },
+        {
+          "english_name": "Gulshan-2",
+          "bangla_name": "গুলশান-২"
+        },
+        {
+          "english_name": "Hatirpool",
+          "bangla_name": "হাতিরপুল"
+        },
+        {
+          "english_name": "Hazaribagh",
+          "bangla_name": "হাজারীবাগ"
+        },
+        {
+          "english_name": "Ibrahimpur",
+          "bangla_name": "ইব্রাহিমপুর"
+        },
+        {
+          "english_name": "Islampur",
+          "bangla_name": "ইসলামপুর"
+        },
+        {
+          "english_name": "Islampur (Dhamrai)",
+          "bangla_name": "ইসলামপুর (ধামরাই)"
+        },
+        {
+          "english_name": "Jatrabari",
+          "bangla_name": "জাতরাবাড়ী"
+        },
+        {
+          "english_name": "Jhauchor",
+          "bangla_name": "ঝাউচর"
+        },
+        {
+          "english_name": "Jigatola",
+          "bangla_name": "জিগাতোলা"
+        },
+        {
+          "english_name": "Joardar Lane",
+          "bangla_name": "জোয়ারদার লেন"
+        },
+        {
+          "english_name": "Journalist Residential Area",
+          "bangla_name": "সাংবাদিক আবাসিক এলাকা"
+        },
+        {
+          "english_name": "Jurain",
+          "bangla_name": "জুরাইন"
+        },
+        {
+          "english_name": "কদমতলি",
+          "bangla_name": "কদমতলি"
+        },
+        {
+          "english_name": "Kalabagan",
+          "bangla_name": "কলাবাগান"
+        },
+        {
+          "english_name": "Kallyanpur",
+          "bangla_name": "কল্যাণপুর"
+        },
+        {
+          "english_name": "Kamalapur",
+          "bangla_name": "কমলাপুর"
+        },
+        {
+          "english_name": "Kathalbagan",
+          "bangla_name": "কাঁঠালবাগান"
+        },
+        {
+          "english_name": "Kawla",
+          "bangla_name": "কাওলা"
+        },
+        {
+          "english_name": "Kawran Bazar",
+          "bangla_name": "কাওরান বাজার"
+        },
+        {
+          "english_name": "Keraniganj",
+          "bangla_name": "কেরানীগঞ্জ"
+        },
+        {
+          "english_name": "Keraniganj Model Thana",
+          "bangla_name": "কেরানীগঞ্জ মডেল থানা"
+        },
+        {
+          "english_name": "Khilgaon",
+          "bangla_name": "খিলগাঁও"
+        },
+        {
+          "english_name": "Khilkhet",
+          "bangla_name": "খিলক্ষেত"
+        },
+        {
+          "english_name": "Kotwali (Dhaka)",
+          "bangla_name": "কোতোয়ালী (ঢাকা)"
+        },
+        {
+          "english_name": "Kuril",
+          "bangla_name": "কুরিল"
+        },
+        {
+          "english_name": "Lakshmibazar",
+          "bangla_name": "লক্ষ্মীবাজার"
+        },
+        {
+          "english_name": "Lalbag",
+          "bangla_name": "লালবাগ"
+        },
+        {
+          "english_name": "Lalkuthi",
+          "bangla_name": "লালকুঠি"
+        },
+        {
+          "english_name": "Love Road, Mirpur-2",
+          "bangla_name": "লাভ রোড, মিরপুর-২"
+        },
+        {
+          "english_name": "Malibagh  Baganbari",
+          "bangla_name": "মালিবাগ বাগানবাড়ি"
+        },
+        {
+          "english_name": "Malibagh College Road",
+          "bangla_name": "মালিবাগ কলেজ রোড"
+        },
+        {
+          "english_name": "Malibagh Lane",
+          "bangla_name": "মালিবাগ লেন"
+        },
+        {
+          "english_name": "Malibagh Pabna Colony",
+          "bangla_name": "মালিবাগ পাবনা কলোনি"
+        },
+        {
+          "english_name": "Manda",
+          "bangla_name": "মান্দা"
+        },
+        {
+          "english_name": "Manik Nagar",
+          "bangla_name": "মানিক নগর"
+        },
+        {
+          "english_name": "Manikdi",
+          "bangla_name": "মানিকদী"
+        },
+        {
+          "english_name": "Masjid Market, Mirpur 2",
+          "bangla_name": "মসজিদ মার্কেট, মিরপুর ২"
+        },
+        {
+          "english_name": "Matikata",
+          "bangla_name": "মাটিকাটা"
+        },
+        {
+          "english_name": "Matuail",
+          "bangla_name": "মাতুয়াইল"
+        },
+        {
+          "english_name": "Mazar road",
+          "bangla_name": "মাজার রোড"
+        },
+        {
+          "english_name": "Middle Rosulbag",
+          "bangla_name": "মিডল রসুলবাগ"
+        },
+        {
+          "english_name": "Mirpur 1",
+          "bangla_name": "মিরপুর ১"
+        },
+        {
+          "english_name": "Mirpur 1 Market Area",
+          "bangla_name": "মিরপুর ১ মার্কেট এলাকা"
+        },
+        {
+          "english_name": "Mirpur 10",
+          "bangla_name": "মিরপুর ১০"
+        },
+        {
+          "english_name": "Mirpur 11",
+          "bangla_name": "মিরপুর ১১"
+        },
+        {
+          "english_name": "Mirpur 11 Lalmatia",
+          "bangla_name": "মিরপুর ১১ লালমাটিয়া"
+        },
+        {
+          "english_name": "Mirpur 12",
+          "bangla_name": "মিরপুর ১২"
+        },
+        {
+          "english_name": "Mirpur 12 Block A,C",
+          "bangla_name": "মিরপুর ১২ ব্লক এ, সি"
+        },
+        {
+          "english_name": "Mirpur 12 Block Ta",
+          "bangla_name": "মিরপুর ১২ ব্লক টা"
+        },
+        {
+          "english_name": "Mirpur 12 Block-Dhak, B",
+          "bangla_name": "মিরপুর ১২ ব্লক-ধাক, বি"
+        },
+        {
+          "english_name": "Mirpur 13",
+          "bangla_name": "মিরপুর ১৩"
+        },
+        {
+          "english_name": "Mirpur 14",
+          "bangla_name": "মিরপুর ১৪"
+        },
+        {
+          "english_name": "Mirpur 2",
+          "bangla_name": "মিরপুর ২"
+        },
+        {
+          "english_name": "Mirpur 6",
+          "bangla_name": "মিরপুর ৬"
+        },
+        {
+          "english_name": "Mirpur 6 (Block C)",
+          "bangla_name": "মিরপুর ৬ (ব্লক সি)"
+        },
+        {
+          "english_name": "Mirpur 7",
+          "bangla_name": "মিরপুর ৭"
+        },
+        {
+          "english_name": "Mirpur Cantonment",
+          "bangla_name": "মিরপুর ক্যান্টনমেন্ট"
+        },
+        {
+          "english_name": "Mirpur Cantonment (Ave new 3 )",
+          "bangla_name": "মিরপুর ক্যান্টনমেন্ট (এভ নিউ ৩)"
+        },
+        {
+          "english_name": "Mirpur DOHS",
+          "bangla_name": "মিরপুর ডিওএইচএস"
+        },
+        {
+          "english_name": "Mirpur DOHS (Ave New 9)",
+          "bangla_name": "মিরপুর ডিওএইচএস (এভ নিউ ৯)"
+        },
+        {
+          "english_name": "Mirpur DOHS (Ave new 2)",
+          "bangla_name": "মিরপুর ডিওএইচএস (এভ নিউ ২)"
+        },
+        {
+          "english_name": "Mirpur-Rupnagar",
+          "bangla_name": "মিরপুর-রূপনগর"
+        },
+        {
+          "english_name": "Modhubag",
+          "bangla_name": "মদ্ধবাগ"
+        },
+        {
+          "english_name": "Mogbazar",
+          "bangla_name": "মগবাজার"
+        },
+        {
+          "english_name": "Mohakhali",
+          "bangla_name": "মহাখালী"
+        },
+        {
+          "english_name": "Mohakhali DOHS",
+          "bangla_name": "মহাখালী ডিওএইচএস"
+        },
+        {
+          "english_name": "Mohammadpur",
+          "bangla_name": "মোহাম্মদপুর"
+        },
+        {
+          "english_name": "Monipur",
+          "bangla_name": "মনিপুর"
+        },
+        {
+          "english_name": "Monumia Market",
+          "bangla_name": "মনুমিয়া মার্কেট"
+        },
+        {
+          "english_name": "Motijheel",
+          "bangla_name": "মতিঝিল"
+        },
+        {
+          "english_name": "Mugda",
+          "bangla_name": "মুগদা"
+        },
+        {
+          "english_name": "Nadda",
+          "bangla_name": "নাড্ডা"
+        },
+        {
+          "english_name": "Nakhalpara",
+          "bangla_name": "নাখালপাড়া"
+        },
+        {
+          "english_name": "Narinda",
+          "bangla_name": "নারিন্দা"
+        },
+        {
+          "english_name": "Nawabganj (Dhaka)",
+          "bangla_name": "নবাবগঞ্জ (ঢাকা)"
+        },
+        {
+          "english_name": "Nawabganj (Dohar)",
+          "bangla_name": "নবাবগঞ্জ (দোহার)"
+        },
+        {
+          "english_name": "Nawabpur",
+          "bangla_name": "নওয়াবপুর"
+        },
+        {
+          "english_name": "Nazim Uddin Road",
+          "bangla_name": "নাজিম উদ্দিন রোড"
+        },
+        {
+          "english_name": "Nazira Bazar",
+          "bangla_name": "নাজিরা বাজার"
+        },
+        {
+          "english_name": "New Elephant Road",
+          "bangla_name": "নিউ এলিফ্যান্ট রোড"
+        },
+        {
+          "english_name": "New Market",
+          "bangla_name": "নিউ মার্কেট"
+        },
+        {
+          "english_name": "Niketan",
+          "bangla_name": "নিকেতন"
+        },
+        {
+          "english_name": "Nikunja",
+          "bangla_name": "নিকুঞ্জ"
+        },
+        {
+          "english_name": "Nikunja 2",
+          "bangla_name": "নিকুঞ্জ ২"
+        },
+        {
+          "english_name": "Nilkhet",
+          "bangla_name": "নীলক্ষেত"
+        },
+        {
+          "english_name": "Nimaikishori",
+          "bangla_name": "নিমাইকিশোরী"
+        },
+        {
+          "english_name": "North Sanarpar",
+          "bangla_name": "উত্তর সানারপার"
+        },
+        {
+          "english_name": "Noyatola road",
+          "bangla_name": "নয়াতোলা রোড"
+        },
+        {
+          "english_name": "On-demand transfer",
+          "bangla_name": "অন-ডিম্যান্ড ট্রান্সফার"
+        },
+        {
+          "english_name": "Paikpara",
+          "bangla_name": "পাইকপাড়া"
+        },
+        {
+          "english_name": "Pallabi",
+          "bangla_name": "পল্লবী"
+        },
+        {
+          "english_name": "Pallabi Residential area",
+          "bangla_name": "পল্লবী আবাসিক এলাকা"
+        },
+        {
+          "english_name": "Paltan",
+          "bangla_name": "পল্টান"
+        },
+        {
+          "english_name": "Panthapath",
+          "bangla_name": "পাঁথপথ"
+        },
+        {
+          "english_name": "Pirerbagh",
+          "bangla_name": "পিরেরবাগ"
+        },
+        {
+          "english_name": "Rampura",
+          "bangla_name": "রামপুরা"
+        },
+        {
+          "english_name": "Rayer Bazar",
+          "bangla_name": "রায়ের বাজার"
+        },
+        {
+          "english_name": "Rayerbag",
+          "bangla_name": "রায়েরবাগ"
+        },
+        {
+          "english_name": "Razarbag Police line",
+          "bangla_name": "রাজারবাগ পুলিশ লাইন"
+        },
+        {
+          "english_name": "Rupnagar",
+          "bangla_name": "রূপনগর"
+        },
+        {
+          "english_name": "Sadarghat (Dhaka)",
+          "bangla_name": "সদরঘাট (ঢাকা)"
+        },
+        {
+          "english_name": "Savar",
+          "bangla_name": "সাভার"
+        },
+        {
+          "english_name": "Senpara",
+          "bangla_name": "সেনপাড়া"
+        },
+        {
+          "english_name": "Shagufta Block-D",
+          "bangla_name": "শাগুফতা ব্লক-ডি"
+        },
+        {
+          "english_name": "Shah Ali Bag",
+          "bangla_name": "শাহ আলী বাগ"
+        },
+        {
+          "english_name": "Shahbag",
+          "bangla_name": "শাহবাগ"
+        },
+        {
+          "english_name": "Shahid Nagar",
+          "bangla_name": "শহীদ নগর"
+        },
+        {
+          "english_name": "Shahjadpur",
+          "bangla_name": "শাহজাদপুর"
+        },
+        {
+          "english_name": "Shajahanpur",
+          "bangla_name": "শাহজাহানপুর"
+        },
+        {
+          "english_name": "Shanir Akhra",
+          "bangla_name": "সানির আখড়া"
+        },
+        {
+          "english_name": "Shantinagar",
+          "bangla_name": "শান্তিনগর"
+        },
+        {
+          "english_name": "Shegunbagicha",
+          "bangla_name": "শেগুনবাগিচা"
+        },
+        {
+          "english_name": "Sheikh Rasel Park",
+          "bangla_name": "শেখ রাসেল পার্ক"
+        },
+        {
+          "english_name": "Sher-E-Bangla National Cricket Stadium",
+          "bangla_name": "শের-ই-বাংলা জাতীয় ক্রিকেট স্টেডিয়াম"
+        },
+        {
+          "english_name": "Sher-e bangla Nagar",
+          "bangla_name": "শের-ই-বাংলা নগর"
+        },
+        {
+          "english_name": "Shewrapara",
+          "bangla_name": "শেওড়াপাড়া"
+        },
+        {
+          "english_name": "Shiddeshwari",
+          "bangla_name": "শিদ্দেশ্বরী"
+        },
+        {
+          "english_name": "Shimrail",
+          "bangla_name": "শিমরাইল"
+        },
+        {
+          "english_name": "Shishu Mela",
+          "bangla_name": "শিশু মেলা"
+        },
+        {
+          "english_name": "Shonalibagh",
+          "bangla_name": "সোনালীবাগ"
+        },
+        {
+          "english_name": "Shonir Akhra",
+          "bangla_name": "সোনির আখড়া"
+        },
+        {
+          "english_name": "Shyamoli",
+          "bangla_name": "শ্যামলী"
+        },
+        {
+          "english_name": "South Banasree",
+          "bangla_name": "সাউথ বনশ্রী"
+        },
+        {
+          "english_name": "South kafrul",
+          "bangla_name": "সাউথ কাফরুল"
+        },
+        {
+          "english_name": "Sutrapur",
+          "bangla_name": "সুত্রাপুর"
+        },
+        {
+          "english_name": "Technical",
+          "bangla_name": "টেকনিক্যাল"
+        },
+        {
+          "english_name": "Tejgaon",
+          "bangla_name": "তেজগাঁও"
+        },
+        {
+          "english_name": "Tolarbag",
+          "bangla_name": "টোলারবাগ"
+        },
+        {
+          "english_name": "Turag",
+          "bangla_name": "তুরাগ"
+        },
+        {
+          "english_name": "UttarKhan",
+          "bangla_name": "উত্তরখান"
+        },
+        {
+          "english_name": "Uttara Sector 1",
+          "bangla_name": "উত্তরা সেক্টর ১"
+        },
+        {
+          "english_name": "Uttara Sector 10",
+          "bangla_name": "উত্তরা সেক্টর ১০"
+        },
+        {
+          "english_name": "Uttara Sector 11",
+          "bangla_name": "উত্তরা সেক্টর ১১"
+        },
+        {
+          "english_name": "Uttara Sector 12",
+          "bangla_name": "উত্তরা সেক্টর ১২"
+        },
+        {
+          "english_name": "Uttara Sector 13",
+          "bangla_name": "উত্তরা সেক্টর ১৩"
+        },
+        {
+          "english_name": "Uttara Sector 14",
+          "bangla_name": "উত্তরা সেক্টর ১৪"
+        },
+        {
+          "english_name": "Uttara Sector 15",
+          "bangla_name": "উত্তরা সেক্টর ১৫"
+        },
+        {
+          "english_name": "Uttara Sector 16",
+          "bangla_name": "উত্তরা সেক্টর ১৬"
+        },
+        {
+          "english_name": "Uttara Sector 17",
+          "bangla_name": "উত্তরা সেক্টর ১৭"
+        },
+        {
+          "english_name": "Uttara Sector 18",
+          "bangla_name": "উত্তরা সেক্টর ১৮"
+        },
+        {
+          "english_name": "Uttara Sector 3",
+          "bangla_name": "উত্তরা সেক্টর ৩"
+        },
+        {
+          "english_name": "Uttara Sector 4",
+          "bangla_name": "উত্তরা সেক্টর ৪"
+        },
+        {
+          "english_name": "Uttara Sector 5",
+          "bangla_name": "উত্তরা সেক্টর ৫"
+        },
+        {
+          "english_name": "Uttara Sector 6",
+          "bangla_name": "উত্তরা সেক্টর ৬"
+        },
+        {
+          "english_name": "Uttara Sector 7",
+          "bangla_name": "উত্তরা সেক্টর ৭"
+        },
+        {
+          "english_name": "Uttara Sector 8",
+          "bangla_name": "উত্তরা সেক্টর ৮"
+        },
+        {
+          "english_name": "Uttara Sector 9",
+          "bangla_name": "উত্তরা সেক্টর ৯"
+        },
+        {
+          "english_name": "Wari",
+          "bangla_name": "ওয়ারী"
+        },
+        {
+          "english_name": "West Agargaon",
+          "bangla_name": "পশ্চিম আগারগাঁও"
+        },
+        {
+          "english_name": "West Kafrul",
+          "bangla_name": "পশ্চিম কাফরুল"
+        },
+        {
+          "english_name": "Zoo Road",
+          "bangla_name": "জু রোড"
+        },
+        {
+          "english_name": "azampur (Uttara)",
+          "bangla_name": "আজমপুর (উত্তরা)"
+        },
+        {
+          "english_name": "kafrul",
+          "bangla_name": "কাফরুল"
+        },
+        {
+          "english_name": "kamranggirchar",
+          "bangla_name": "কামরাঙ্গিরচর"
+        },
+        {
+          "english_name": "london market",
+          "bangla_name": "লন্ডন মার্কেট"
+        },
+        {
+          "english_name": "lost",
+          "bangla_name": "হারিয়ে গেছে"
+        },
+        {
+          "english_name": "mukti nagar",
+          "bangla_name": "মুক্তি নগর"
+        },
+        {
+          "english_name": "narayanpur - keshobpur",
+          "bangla_name": "নারায়নপুর - কেশবপুর"
+        },
+        {
+          "english_name": "new paltan",
+          "bangla_name": "নিউ পল্টন"
+        },
+        {
+          "english_name": "rajlakkhi market",
+          "bangla_name": "রাজলক্ষী মার্কেট"
+        },
+        {
+          "english_name": "shampur",
+          "bangla_name": "শ্যামপুর"
+        },
+        {
+          "english_name": "shankar",
+          "bangla_name": "শঙ্কর"
+        }
+      ]
+    },
+    {
+      "district": "Dinajpur",
+      "thana": [
+        {
+          "english_name": "Biral",
+          "bangla_name": "বিরল"
+        },
+        {
+          "english_name": "Birampur",
+          "bangla_name": "বিরামপুর"
+        },
+        {
+          "english_name": "Birganj",
+          "bangla_name": "বীরগঞ্জ"
+        },
+        {
+          "english_name": "Bochaganj",
+          "bangla_name": "বোচাগঞ্জ"
+        },
+        {
+          "english_name": "Chirirbandar",
+          "bangla_name": "চিরিরবন্দর"
+        },
+        {
+          "english_name": "Dinajpur Sadar",
+          "bangla_name": "দিনাজপুর সদর"
+        },
+        {
+          "english_name": "Fulbari",
+          "bangla_name": "ফুলবাড়ি"
+        },
+        {
+          "english_name": "Ghoraghat",
+          "bangla_name": "ঘোড়াঘাট"
+        },
+        {
+          "english_name": "Hakimpur (Hili)",
+          "bangla_name": "হাকিমপুর (হিলি)"
+        },
+        {
+          "english_name": "Kaharol",
+          "bangla_name": "কাহারোল"
+        },
+        {
+          "english_name": "Khanshama",
+          "bangla_name": "খানসামা"
+        },
+        {
+          "english_name": "Nawabganj Dinajpur",
+          "bangla_name": "নবাবগঞ্জ দিনাজপুর"
+        },
+        {
+          "english_name": "Parbatipur",
+          "bangla_name": "পার্বতীপুর"
+        }
+      ]
+    },
+    {
+      "district": "Faridpur",
+      "thana": [
+        {
+          "english_name": "Alfadanga",
+          "bangla_name": "আলফাডাঙ্গা"
+        },
+        {
+          "english_name": "Bhanga",
+          "bangla_name": "ভাঙ্গা"
+        },
+        {
+          "english_name": "Boalmari",
+          "bangla_name": "বোয়ালমারী"
+        },
+        {
+          "english_name": "Charbhadrashan",
+          "bangla_name": "চরভদ্রাসন"
+        },
+        {
+          "english_name": "Faridpur Sadar",
+          "bangla_name": "ফরিদপুর সদর"
+        },
+        {
+          "english_name": "Madukhali",
+          "bangla_name": "মদুখালি"
+        },
+        {
+          "english_name": "Nagarkanda",
+          "bangla_name": "নগরকান্দা"
+        },
+        {
+          "english_name": "Sadarpur",
+          "bangla_name": "সদরপুর"
+        },
+        {
+          "english_name": "Saltha",
+          "bangla_name": "সালথা"
+        }
+      ]
+    },
+    {
+      "district": "Feni",
+      "thana": [
+        {
+          "english_name": "Chhagalnaiya",
+          "bangla_name": "ছাগলনাইয়া"
+        },
+        {
+          "english_name": "Daganbhuiyan",
+          "bangla_name": "দাগনভুইয়া"
+        },
+        {
+          "english_name": "Feni Sadar",
+          "bangla_name": "ফেনী সদর"
+        },
+        {
+          "english_name": "Ful-Gazi",
+          "bangla_name": "ফুলগাজী"
+        },
+        {
+          "english_name": "Pashuram",
+          "bangla_name": "পাশুরাম"
+        },
+        {
+          "english_name": "Sonagazi",
+          "bangla_name": "সোনাগাজী"
+        }
+      ]
+    },
+    {
+      "district": "Gaibandha",
+      "thana": [
+        {
+          "english_name": "Fulchhari",
+          "bangla_name": "ফুলছড়ি"
+        },
+        {
+          "english_name": "Gaibandha Sadar",
+          "bangla_name": "গাইবান্ধা সদর"
+        },
+        {
+          "english_name": "Gobindaganj",
+          "bangla_name": "গোবিন্দগঞ্জ"
+        },
+        {
+          "english_name": "Palashbari",
+          "bangla_name": "পলাশবাড়ী"
+        },
+        {
+          "english_name": "Sadulllahpur",
+          "bangla_name": "সাদুল্লাপুর"
+        },
+        {
+          "english_name": "Saghata",
+          "bangla_name": "সাঘাটা"
+        },
+        {
+          "english_name": "Sundarganj",
+          "bangla_name": "সুন্দরগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Gazipur",
+      "thana": [
+        {
+          "english_name": "Amraid",
+          "bangla_name": "আমরাইদ"
+        },
+        {
+          "english_name": "Aral",
+          "bangla_name": "আড়াল"
+        },
+        {
+          "english_name": "Bason",
+          "bangla_name": "বাসন"
+        },
+        {
+          "english_name": "Bhawal Mirzapur",
+          "bangla_name": "ভাওয়াল মির্জাপুর"
+        },
+        {
+          "english_name": "Board Bazar",
+          "bangla_name": "বোর্ড বাজার"
+        },
+        {
+          "english_name": "Borobari",
+          "bangla_name": "বড়বাড়ি"
+        },
+        {
+          "english_name": "Chalar Bazar",
+          "bangla_name": "চালার বাজার"
+        },
+        {
+          "english_name": "College gate",
+          "bangla_name": "কলেজ গেট"
+        },
+        {
+          "english_name": "Gacha",
+          "bangla_name": "গাছা"
+        },
+        {
+          "english_name": "Gazipur Chowrasta",
+          "bangla_name": "গাজীপুর চৌরাস্তা"
+        },
+        {
+          "english_name": "Gazipura",
+          "bangla_name": "গাজীপুরা"
+        },
+        {
+          "english_name": "Hotapara",
+          "bangla_name": "হোটাপাড়া"
+        },
+        {
+          "english_name": "Joydebpur",
+          "bangla_name": "জয়দেবপুর"
+        },
+        {
+          "english_name": "Kaliakair",
+          "bangla_name": "কালিয়াকৈর"
+        },
+        {
+          "english_name": "Kaliganj",
+          "bangla_name": "কালিগঞ্জ"
+        },
+        {
+          "english_name": "Kapashiya",
+          "bangla_name": "কপাসিয়া"
+        },
+        {
+          "english_name": "Kapasia",
+          "bangla_name": "কাপাসিয়া"
+        },
+        {
+          "english_name": "Kashimpur",
+          "bangla_name": "কাশিমপুর"
+        },
+        {
+          "english_name": "Konabari",
+          "bangla_name": "কোনাবাড়ি"
+        },
+        {
+          "english_name": "Mawna",
+          "bangla_name": "মাউনা"
+        },
+        {
+          "english_name": "Mowchak",
+          "bangla_name": "মোচাক"
+        },
+        {
+          "english_name": "Porabari",
+          "bangla_name": "পোড়াবাড়ি"
+        },
+        {
+          "english_name": "Rajendrapur Bangla Bazar",
+          "bangla_name": "রাজেন্দ্রপুর বাংলা বাজার"
+        },
+        {
+          "english_name": "Rajendrapur Cantonment",
+          "bangla_name": "রাজেন্দ্রপুর ক্যান্টনমেন্ট"
+        },
+        {
+          "english_name": "Sreepur",
+          "bangla_name": "শ্রীপুর"
+        },
+        {
+          "english_name": "Toke",
+          "bangla_name": "টোক"
+        },
+        {
+          "english_name": "Tongi",
+          "bangla_name": "টঙ্গী"
+        },
+        {
+          "english_name": "Tongi Cherag Ali",
+          "bangla_name": "টঙ্গী চেরাগ আলী"
+        }
+      ]
+    },
+    {
+      "district": "Gopalganj",
+      "thana": [
+        {
+          "english_name": "Gopalganj Sadar",
+          "bangla_name": "গোপালগঞ্জ সদর"
+        },
+        {
+          "english_name": "Kashiani",
+          "bangla_name": "কাশিয়ানী"
+        },
+        {
+          "english_name": "Kotalipara",
+          "bangla_name": "কোটালীপাড়া"
+        },
+        {
+          "english_name": "Muksudpur",
+          "bangla_name": "মুকসুদপুর"
+        },
+        {
+          "english_name": "Tungipara",
+          "bangla_name": "টুংগীপাড়া"
+        }
+      ]
+    },
+    {
+      "district": "Habiganj",
+      "thana": [
+        {
+          "english_name": "Azmireeganj",
+          "bangla_name": "আজমিরীগঞ্জ"
+        },
+        {
+          "english_name": "Bahubal",
+          "bangla_name": "বাহুবল"
+        },
+        {
+          "english_name": "Baniachong",
+          "bangla_name": "বানিয়াচং"
+        },
+        {
+          "english_name": "Chunarughat",
+          "bangla_name": "চুনারুঘাট"
+        },
+        {
+          "english_name": "Habiganj Sadar",
+          "bangla_name": "হবিগঞ্জ সদর"
+        },
+        {
+          "english_name": "Lakhai",
+          "bangla_name": "লাখাই"
+        },
+        {
+          "english_name": "Madhabpur",
+          "bangla_name": "মাধবপুর"
+        },
+        {
+          "english_name": "Nabiganj",
+          "bangla_name": "নবীগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Jamalpur",
+      "thana": [
+        {
+          "english_name": "Bakshiganj",
+          "bangla_name": "বকশীগঞ্জ"
+        },
+        {
+          "english_name": "Dewangonj",
+          "bangla_name": "দেওয়ানগঞ্জ"
+        },
+        {
+          "english_name": "Islampur",
+          "bangla_name": "ইসলামপুর (জামালপুর)"
+        },
+        {
+          "english_name": "Jamalpur Sadar",
+          "bangla_name": "জামালপুর সদর"
+        },
+        {
+          "english_name": "Madarganj",
+          "bangla_name": "মাদারগঞ্জ"
+        },
+        {
+          "english_name": "Melandaha",
+          "bangla_name": "মেলানদাহা"
+        },
+        {
+          "english_name": "Sarishabari",
+          "bangla_name": "সরিষাবাড়ি"
+        }
+      ]
+    },
+    {
+      "district": "Jashore",
+      "thana": [
+        {
+          "english_name": "Bagharpara",
+          "bangla_name": "বাঘারপাড়া"
+        },
+        {
+          "english_name": "Benapole",
+          "bangla_name": "বেনাপোল"
+        },
+        {
+          "english_name": "Chaugachha",
+          "bangla_name": "চৌগাছা"
+        },
+        {
+          "english_name": "Jessore Sadar",
+          "bangla_name": "যশোর সদর"
+        },
+        {
+          "english_name": "Jhikargachha",
+          "bangla_name": "ঝিকরগাছা"
+        },
+        {
+          "english_name": "Keshabpur",
+          "bangla_name": "কেশবপুর"
+        },
+        {
+          "english_name": "Monirampur",
+          "bangla_name": "মনিরামপুর"
+        },
+        {
+          "english_name": "Obhoynagar",
+          "bangla_name": "অভয়নগর"
+        },
+        {
+          "english_name": "Sarsa",
+          "bangla_name": "সরসা"
+        }
+      ]
+    },
+    {
+      "district": "Jhalokati",
+      "thana": [
+        {
+          "english_name": "Jhalokathi Sadar",
+          "bangla_name": "ঝালকাঠি সদর"
+        },
+        {
+          "english_name": "Kathalia",
+          "bangla_name": "কাথালিয়া"
+        },
+        {
+          "english_name": "Nalchhiti",
+          "bangla_name": "নলছিটি"
+        },
+        {
+          "english_name": "Rajapur",
+          "bangla_name": "রাজাপুর"
+        }
+      ]
+    },
+    {
+      "district": "Jhenaidah",
+      "thana": [
+        {
+          "english_name": "Harinakundu",
+          "bangla_name": "হরিণাকুন্ডু"
+        },
+        {
+          "english_name": "Jhenaidah sadar",
+          "bangla_name": "ঝিনাইদহ সদর"
+        },
+        {
+          "english_name": "Kaligonj",
+          "bangla_name": "কালীগঞ্জ"
+        },
+        {
+          "english_name": "Kotchandpur",
+          "bangla_name": "কোটচাঁদপুর"
+        },
+        {
+          "english_name": "Maheshpur",
+          "bangla_name": "মহেশপুর"
+        },
+        {
+          "english_name": "Shailakupa",
+          "bangla_name": "শায়েলকুপা"
+        }
+      ]
+    },
+    {
+      "district": "Joypurhat",
+      "thana": [
+        {
+          "english_name": "Akkelpur",
+          "bangla_name": "আক্কেলপুর"
+        },
+        {
+          "english_name": "Joypurhat Sadar",
+          "bangla_name": "জয়পুরহাট সদর"
+        },
+        {
+          "english_name": "Kalai",
+          "bangla_name": "কালাই"
+        },
+        {
+          "english_name": "Khetlal",
+          "bangla_name": "খেতলাল"
+        },
+        {
+          "english_name": "Panchbibi",
+          "bangla_name": "পাঁচবিবি"
+        }
+      ]
+    },
+    {
+      "district": "Khagrachari",
+      "thana": [
+        {
+          "english_name": "Bagaichari",
+          "bangla_name": "বাঘাইছড়ি"
+        },
+        {
+          "english_name": "Dighinala",
+          "bangla_name": "দীঘিনালা"
+        },
+        {
+          "english_name": "Guimara",
+          "bangla_name": "গুইমারা"
+        },
+        {
+          "english_name": "Khagrachari Sadar",
+          "bangla_name": "খাগরাছড়ি সদর"
+        },
+        {
+          "english_name": "Lakkhichhari",
+          "bangla_name": "লক্ষীছড়ি"
+        },
+        {
+          "english_name": "Langodu",
+          "bangla_name": "লাঙ্গদু"
+        },
+        {
+          "english_name": "Mahalchhari",
+          "bangla_name": "মহালছড়ি"
+        },
+        {
+          "english_name": "Maischori",
+          "bangla_name": "মাইসছড়ি"
+        },
+        {
+          "english_name": "Manikchhari",
+          "bangla_name": "মানিকছড়ি"
+        },
+        {
+          "english_name": "Matiranga",
+          "bangla_name": "মাটিরাঙ্গা"
+        },
+        {
+          "english_name": "Mohalchori",
+          "bangla_name": "মোহালছড়ি"
+        },
+        {
+          "english_name": "Panchhari",
+          "bangla_name": "পানছড়ি"
+        },
+        {
+          "english_name": "Ramgar",
+          "bangla_name": "রামগড়"
+        }
+      ]
+    },
+    {
+      "district": "Khulna",
+      "thana": [
+        {
+          "english_name": "Batiaghata",
+          "bangla_name": "বাটিয়াঘাটা"
+        },
+        {
+          "english_name": "Boyra",
+          "bangla_name": "বয়রা"
+        },
+        {
+          "english_name": "Chandkhali",
+          "bangla_name": "চাঁদখালী"
+        },
+        {
+          "english_name": "Dacope",
+          "bangla_name": "ডাকপে"
+        },
+        {
+          "english_name": "Daulatpur",
+          "bangla_name": "দৌলতপুর"
+        },
+        {
+          "english_name": "Digholia",
+          "bangla_name": "দিঘলিয়া"
+        },
+        {
+          "english_name": "Dumuria",
+          "bangla_name": "দুমুরিয়া"
+        },
+        {
+          "english_name": "Fultola",
+          "bangla_name": "ফুলতলা"
+        },
+        {
+          "english_name": "Khalishpur",
+          "bangla_name": "খালিশপুর"
+        },
+        {
+          "english_name": "Khulna Sadar",
+          "bangla_name": "খুলনা সদর"
+        },
+        {
+          "english_name": "Kopilmuni",
+          "bangla_name": "কপিলমুনি"
+        },
+        {
+          "english_name": "Koyra",
+          "bangla_name": "কয়রা"
+        },
+        {
+          "english_name": "Paikgachha Upozila",
+          "bangla_name": "পাইকগাছা উপজেলা"
+        },
+        {
+          "english_name": "Rupsha",
+          "bangla_name": "রূপসা"
+        },
+        {
+          "english_name": "Sonadanga",
+          "bangla_name": "সোনাডাঙ্গা"
+        },
+        {
+          "english_name": "Tala Upozilla",
+          "bangla_name": "তালা উপজেলা"
+        },
+        {
+          "english_name": "Terokhada",
+          "bangla_name": "তেরখাদা"
+        }
+      ]
+    },
+    {
+      "district": "Kishoreganj",
+      "thana": [
+        {
+          "english_name": "Astagram",
+          "bangla_name": "আস্তাগ্রাম"
+        },
+        {
+          "english_name": "Bajitpur",
+          "bangla_name": "বাজিতপুর"
+        },
+        {
+          "english_name": "Bhairab",
+          "bangla_name": "ভৈরব"
+        },
+        {
+          "english_name": "Hossainpur",
+          "bangla_name": "হোসেনপুর"
+        },
+        {
+          "english_name": "Itna",
+          "bangla_name": "ইটনা"
+        },
+        {
+          "english_name": "Karimganj",
+          "bangla_name": "করিমগঞ্জ"
+        },
+        {
+          "english_name": "Katiadi Upozila",
+          "bangla_name": "কটিয়াদি উপজেলা"
+        },
+        {
+          "english_name": "Kishoreganj Sadar",
+          "bangla_name": "কিশোরগঞ্জ সদর"
+        },
+        {
+          "english_name": "Kuliarchar",
+          "bangla_name": "কুলিয়ারচর"
+        },
+        {
+          "english_name": "Mithamoin",
+          "bangla_name": "মিঠামইন"
+        },
+        {
+          "english_name": "Nikli",
+          "bangla_name": "নিকলী"
+        },
+        {
+          "english_name": "Pakundia",
+          "bangla_name": "পাকুন্ডা"
+        },
+        {
+          "english_name": "Tarial",
+          "bangla_name": "তরিয়াল"
+        }
+      ]
+    },
+    {
+      "district": "Kurigram",
+      "thana": [
+        {
+          "english_name": "Bhurungamari",
+          "bangla_name": "ভুরুঙ্গামারি"
+        },
+        {
+          "english_name": "Char Rajibpur",
+          "bangla_name": "চর রাজিবপুর"
+        },
+        {
+          "english_name": "Chilmari",
+          "bangla_name": "চিলমারি"
+        },
+        {
+          "english_name": "Kurigram Sadar",
+          "bangla_name": "কুড়িগ্রাম সদর"
+        },
+        {
+          "english_name": "Nagesshari",
+          "bangla_name": "নাগেশ্বরী"
+        },
+        {
+          "english_name": "Phulbari",
+          "bangla_name": "ফুলবাড়ী"
+        },
+        {
+          "english_name": "Rajarhat",
+          "bangla_name": "রাজারহাট"
+        },
+        {
+          "english_name": "Rawmari",
+          "bangla_name": "রওমারী"
+        },
+        {
+          "english_name": "Ulipur",
+          "bangla_name": "উলিপুর"
+        }
+      ]
+    },
+    {
+      "district": "Kushtia",
+      "thana": [
+        {
+          "english_name": "Kushtia-Mirpur",
+          "bangla_name": "কুষ্টিয়া-মিরপুর"
+        },
+        {
+          "english_name": "Bheramara",
+          "bangla_name": "ভেড়ামারা"
+        },
+        {
+          "english_name": "Daulatpur",
+          "bangla_name": "দৌলতপুর"
+        },
+        {
+          "english_name": "Islamic University",
+          "bangla_name": "ইসলামী বিশ্ববিদ্যালয়"
+        },
+        {
+          "english_name": "Khoksha",
+          "bangla_name": "খোকসা"
+        },
+        {
+          "english_name": "Kumarkhali",
+          "bangla_name": "কুমারখালী"
+        },
+        {
+          "english_name": "Kushtia Sadar",
+          "bangla_name": "কুষ্টিয়া সদর"
+        }
+      ]
+    },
+    {
+      "district": "Lakshmipur",
+      "thana": [
+        {
+          "english_name": "Komalnagar",
+          "bangla_name": "কোমলনগর"
+        },
+        {
+          "english_name": "Lakshimpur Sadar",
+          "bangla_name": "লক্ষ্মীপুর সদর"
+        },
+        {
+          "english_name": "Raipur",
+          "bangla_name": "রায়পুর"
+        },
+        {
+          "english_name": "Ramganj",
+          "bangla_name": "রামগঞ্জ"
+        },
+        {
+          "english_name": "Ramgoti",
+          "bangla_name": "রামগতি"
+        }
+      ]
+    },
+    {
+      "district": "Lalmonirhat",
+      "thana": [
+        {
+          "english_name": "Aditmari",
+          "bangla_name": "আদিতমারি"
+        },
+        {
+          "english_name": "Hatibandha",
+          "bangla_name": "হাতিবান্ধা"
+        },
+        {
+          "english_name": "Kaliganj - Lalmonirhat",
+          "bangla_name": "কালীগঞ্জ - লালমনিরহাট"
+        },
+        {
+          "english_name": "Lalmonirhat Sadar",
+          "bangla_name": "লালমনিরহাট সদর"
+        },
+        {
+          "english_name": "Patgram",
+          "bangla_name": "পাটগ্রাম"
+        }
+      ]
+    },
+    {
+      "district": "Madaripur",
+      "thana": [
+        {
+          "english_name": "Dasar Thana",
+          "bangla_name": "দাসার থানা"
+        },
+        {
+          "english_name": "Kalkini Thana",
+          "bangla_name": "কালকিনি থানা"
+        },
+        {
+          "english_name": "Madaripur Sadar",
+          "bangla_name": "মাদারীপুর সদর"
+        },
+        {
+          "english_name": "Rajoir Thana",
+          "bangla_name": "রাজৈর থানা"
+        },
+        {
+          "english_name": "Shibchar",
+          "bangla_name": "শিবচর"
+        }
+      ]
+    },
+    {
+      "district": "Magura",
+      "thana": [
+        {
+          "english_name": "Magura Sadar",
+          "bangla_name": "মাগুরা সদর"
+        },
+        {
+          "english_name": "Mohammadpur",
+          "bangla_name": "মোহাম্মদপুর"
+        },
+        {
+          "english_name": "Shalikha",
+          "bangla_name": "শালিখা"
+        },
+        {
+          "english_name": "Sreepur",
+          "bangla_name": "শ্রীপুর"
+        }
+      ]
+    },
+    {
+      "district": "Manikganj",
+      "thana": [
+        {
+          "english_name": "ANGAR PARA",
+          "bangla_name": "আঙ্গার পাড়া"
+        },
+        {
+          "english_name": "DAULATPUR",
+          "bangla_name": "দৌলতপুর"
+        },
+        {
+          "english_name": "Daulatpur - Manikganj",
+          "bangla_name": "দৌলতপুর - মানিকগঞ্জ"
+        },
+        {
+          "english_name": "Ghior",
+          "bangla_name": "ঘিওর"
+        },
+        {
+          "english_name": "Ghior Thana",
+          "bangla_name": "ঘিওর থানা"
+        },
+        {
+          "english_name": "Harirampur",
+          "bangla_name": "হরিরামপুর"
+        },
+        {
+          "english_name": "Manikganj Sadar",
+          "bangla_name": "মানিকগঞ্জ সদর"
+        },
+        {
+          "english_name": "SHIBALAYA",
+          "bangla_name": "শিবালয়া"
+        },
+        {
+          "english_name": "Saturia",
+          "bangla_name": "সাটুরিয়া"
+        },
+        {
+          "english_name": "Shivalaya",
+          "bangla_name": "শিবালয়া"
+        },
+        {
+          "english_name": "Singair",
+          "bangla_name": "সিঙ্গাইর"
+        }
+      ]
+    },
+    {
+      "district": "Meherpur",
+      "thana": [
+        {
+          "english_name": "Gangni",
+          "bangla_name": "গাংনী"
+        },
+        {
+          "english_name": "Meherpur Sadar",
+          "bangla_name": "মেহেরপুর সদর"
+        },
+        {
+          "english_name": "Mujibnagar",
+          "bangla_name": "মুজিবনগর"
+        }
+      ]
+    },
+    {
+      "district": "Moulvibazar",
+      "thana": [
+        {
+          "english_name": "Baralekha",
+          "bangla_name": "বড়লেখা"
+        },
+        {
+          "english_name": "Juri",
+          "bangla_name": "জুরি"
+        },
+        {
+          "english_name": "Kamalganj",
+          "bangla_name": "কমলগঞ্জ"
+        },
+        {
+          "english_name": "Kulaura",
+          "bangla_name": "কুলাউরা"
+        },
+        {
+          "english_name": "Moulvibazar Sadar",
+          "bangla_name": "মৌলভীবাজার সদর"
+        },
+        {
+          "english_name": "Rajnagar",
+          "bangla_name": "রাজনগর"
+        },
+        {
+          "english_name": "Sreemangal",
+          "bangla_name": "শ্রীমঙ্গল"
+        }
+      ]
+    },
+    {
+      "district": "Munshiganj",
+      "thana": [
+        {
+          "english_name": "Gazaria",
+          "bangla_name": "গজারিয়া"
+        },
+        {
+          "english_name": "Lohajong",
+          "bangla_name": "লোহাজং"
+        },
+        {
+          "english_name": "Munshiganj Sadar",
+          "bangla_name": "মুন্সীগঞ্জ সদর"
+        },
+        {
+          "english_name": "Sirajdikhan",
+          "bangla_name": "সিরাজদিখান"
+        },
+        {
+          "english_name": "Sreenagar",
+          "bangla_name": "শ্রীনগর"
+        },
+        {
+          "english_name": "Tongibari",
+          "bangla_name": "টঙ্গীবাড়ী"
+        }
+      ]
+    },
+    {
+      "district": "Mymensingh",
+      "thana": [
+        {
+          "english_name": "Bhaluka",
+          "bangla_name": "ভালুকা"
+        },
+        {
+          "english_name": "Dhobaura",
+          "bangla_name": "ধোবাউড়া"
+        },
+        {
+          "english_name": "Fulbaria",
+          "bangla_name": "ফুলবাড়িয়া"
+        },
+        {
+          "english_name": "Gafargaon",
+          "bangla_name": "গফরগাঁও"
+        },
+        {
+          "english_name": "Gauripur",
+          "bangla_name": "গৌরীপুর"
+        },
+        {
+          "english_name": "Haluaghat",
+          "bangla_name": "হালুয়াঘাট"
+        },
+        {
+          "english_name": "Ishwarganj",
+          "bangla_name": "ঈশ্বরগঞ্জ"
+        },
+        {
+          "english_name": "Muktagachha",
+          "bangla_name": "মুক্তাগাছা"
+        },
+        {
+          "english_name": "Mymensingh Sadar",
+          "bangla_name": "ময়মনসিংহ সদর"
+        },
+        {
+          "english_name": "Nandail",
+          "bangla_name": "নান্দাইল"
+        },
+        {
+          "english_name": "Pagla",
+          "bangla_name": "পাগলা"
+        },
+        {
+          "english_name": "Phulpur",
+          "bangla_name": "ফুলপুর"
+        },
+        {
+          "english_name": "Tarakanda",
+          "bangla_name": "তারাকান্দা"
+        },
+        {
+          "english_name": "Trishal",
+          "bangla_name": "ত্রিশাল"
+        }
+      ]
+    },
+    {
+      "district": "Naogaon",
+      "thana": [
+        {
+          "english_name": "Atrai",
+          "bangla_name": "আত্রাই"
+        },
+        {
+          "english_name": "Bodolgachi",
+          "bangla_name": "বোদলগাছি"
+        },
+        {
+          "english_name": "Dhamoirhat",
+          "bangla_name": "ধামইরহাট"
+        },
+        {
+          "english_name": "Manda",
+          "bangla_name": "মান্দা"
+        },
+        {
+          "english_name": "Mohadevpur",
+          "bangla_name": "মহাদেবপুর"
+        },
+        {
+          "english_name": "Naogaon Sadar",
+          "bangla_name": "নওগাঁ সদর"
+        },
+        {
+          "english_name": "Niyamotpur",
+          "bangla_name": "নিয়ামতপুর"
+        },
+        {
+          "english_name": "Porsha",
+          "bangla_name": "পোরশা"
+        },
+        {
+          "english_name": "Potnitola",
+          "bangla_name": "পতনীতলা"
+        },
+        {
+          "english_name": "Raninagar",
+          "bangla_name": "রাণীনগর"
+        },
+        {
+          "english_name": "Sapahar",
+          "bangla_name": "সাপাহার"
+        }
+      ]
+    },
+    {
+      "district": "Narail",
+      "thana": [
+        {
+          "english_name": "Kalia",
+          "bangla_name": "কালিয়া"
+        },
+        {
+          "english_name": "Narail - Lohagara",
+          "bangla_name": "নড়াইল - লোহাগড়া"
+        },
+        {
+          "english_name": "Narail Sadar",
+          "bangla_name": "নড়াইল সদর"
+        },
+        {
+          "english_name": "Terokhada",
+          "bangla_name": "তেরখাদা"
+        }
+      ]
+    },
+    {
+      "district": "Narayanganj",
+      "thana": [
+        {
+          "english_name": "2 no gate",
+          "bangla_name": "২ নম্বর গেট"
+        },
+        {
+          "english_name": "Araihazar",
+          "bangla_name": "আড়াইহাজার"
+        },
+        {
+          "english_name": "Baidder Bazar",
+          "bangla_name": "বাইদ্যের বাজার"
+        },
+        {
+          "english_name": "Bandar",
+          "bangla_name": "বন্দর"
+        },
+        {
+          "english_name": "Bausia",
+          "bangla_name": "বাউসিয়া"
+        },
+        {
+          "english_name": "Bb road",
+          "bangla_name": "বি.বি. রোড"
+        },
+        {
+          "english_name": "Beldi-Daudpur",
+          "bangla_name": "বেলদি-দৌড়পুর"
+        },
+        {
+          "english_name": "Bhuighor",
+          "bangla_name": "ভুইঘর"
+        },
+        {
+          "english_name": "Bhulta/Gawsia",
+          "bangla_name": "ভুলতা/গওশিয়া"
+        },
+        {
+          "english_name": "Bisic",
+          "bangla_name": "বিসিক"
+        },
+        {
+          "english_name": "Boktaboli",
+          "bangla_name": "বক্তাবোলি"
+        },
+        {
+          "english_name": "Chashra",
+          "bangla_name": "চাশরা"
+        },
+        {
+          "english_name": "Delpara",
+          "bangla_name": "দেলপাড়া"
+        },
+        {
+          "english_name": "Don Chamber",
+          "bangla_name": "ডন চেম্বার"
+        },
+        {
+          "english_name": "Ekrampur",
+          "bangla_name": "একরামপুর"
+        },
+        {
+          "english_name": "Epz",
+          "bangla_name": "ইপিজেড"
+        },
+        {
+          "english_name": "Isdair",
+          "bangla_name": "ঈশদাইর"
+        },
+        {
+          "english_name": "Ispahani Bandar",
+          "bangla_name": "ইস্পাহানি বন্দর"
+        },
+        {
+          "english_name": "Jalkuri",
+          "bangla_name": "জালকুড়ি"
+        },
+        {
+          "english_name": "Kachpur",
+          "bangla_name": "কাচপুর"
+        },
+        {
+          "english_name": "Kashipur",
+          "bangla_name": "কাশীপুর"
+        },
+        {
+          "english_name": "Khanpur",
+          "bangla_name": "খানপুর"
+        },
+        {
+          "english_name": "Madanganj",
+          "bangla_name": "মদঙ্গঞ্জ"
+        },
+        {
+          "english_name": "Madanpur",
+          "bangla_name": "মদনপুর"
+        },
+        {
+          "english_name": "Mahmudpur",
+          "bangla_name": "মাহমুদপুর"
+        },
+        {
+          "english_name": "Majdair",
+          "bangla_name": "মাজদাইর"
+        },
+        {
+          "english_name": "Masdair",
+          "bangla_name": "মাসদাইর"
+        },
+        {
+          "english_name": "Mitali Market",
+          "bangla_name": "মিতালি মার্কেট"
+        },
+        {
+          "english_name": "Modonpur",
+          "bangla_name": "মদনপুর"
+        },
+        {
+          "english_name": "Mograpara",
+          "bangla_name": "মোগরাপাড়া"
+        },
+        {
+          "english_name": "Nabiganj Bandar",
+          "bangla_name": "নবীগঞ্জ বন্দর"
+        },
+        {
+          "english_name": "Neela Market",
+          "bangla_name": "নীলা মার্কেট"
+        },
+        {
+          "english_name": "New town",
+          "bangla_name": "নিউ টাউন"
+        },
+        {
+          "english_name": "Nila Market",
+          "bangla_name": "নীলা মার্কেট"
+        },
+        {
+          "english_name": "Nitaiganj",
+          "bangla_name": "নিতাইগঞ্জ"
+        },
+        {
+          "english_name": "Pagla",
+          "bangla_name": "পাগলা"
+        },
+        {
+          "english_name": "Panchabati",
+          "bangla_name": "পাঁচাবাটি"
+        },
+        {
+          "english_name": "Passport office (Siddhirganj)",
+          "bangla_name": "পাসপোর্ট অফিস (সিদ্ধিরগঞ্জ)"
+        },
+        {
+          "english_name": "Ponchoboti",
+          "bangla_name": "পঞ্চবটি"
+        },
+        {
+          "english_name": "Purbachal",
+          "bangla_name": "পূর্বাচল"
+        },
+        {
+          "english_name": "Rosulpur",
+          "bangla_name": "রসুলপুর"
+        },
+        {
+          "english_name": "Rupganj",
+          "bangla_name": "রূপগঞ্জ"
+        },
+        {
+          "english_name": "Sayedpur - Narayanganj",
+          "bangla_name": "সায়েদপুর - নারায়ণগঞ্জ"
+        },
+        {
+          "english_name": "Shaheb para",
+          "bangla_name": "সাহেব পাড়া"
+        },
+        {
+          "english_name": "Shanarpar",
+          "bangla_name": "সানারপাড়"
+        },
+        {
+          "english_name": "Shibu Market",
+          "bangla_name": "শিবু মার্কেট"
+        },
+        {
+          "english_name": "Shiddriganj",
+          "bangla_name": "শিদ্দিরগঞ্জ"
+        },
+        {
+          "english_name": "Siddirganj",
+          "bangla_name": "সিদ্ধিরগঞ্জ"
+        },
+        {
+          "english_name": "Sonargaon",
+          "bangla_name": "সোনারগাঁও"
+        },
+        {
+          "english_name": "South Chashara",
+          "bangla_name": "সাউথ চাশড়া"
+        },
+        {
+          "english_name": "Vabarchar",
+          "bangla_name": "ভাবারচর"
+        },
+        {
+          "english_name": "Volail",
+          "bangla_name": "ভোলাইল"
+        },
+        {
+          "english_name": "Zilla Parishod",
+          "bangla_name": "জেলা পরিষদ"
+        },
+        {
+          "english_name": "amlapara",
+          "bangla_name": "আমলাপাড়া"
+        },
+        {
+          "english_name": "ananda bazar",
+          "bangla_name": "আনন্দ বাজার"
+        },
+        {
+          "english_name": "baburail",
+          "bangla_name": "বাবুরাইল"
+        },
+        {
+          "english_name": "kaikartek",
+          "bangla_name": "কাইকারটেক"
+        },
+        {
+          "english_name": "kanchpur",
+          "bangla_name": "কাঁচপুর"
+        },
+        {
+          "english_name": "paikpara Narayanganj",
+          "bangla_name": "পাইকপাড়া নারায়ণগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Narsingdi",
+      "thana": [
+        {
+          "english_name": "Belabo",
+          "bangla_name": "বেলাবো"
+        },
+        {
+          "english_name": "Chalakchar",
+          "bangla_name": "চালাকছার"
+        },
+        {
+          "english_name": "Hatirdia",
+          "bangla_name": "হাতিরদিয়া"
+        },
+        {
+          "english_name": "Monohardi",
+          "bangla_name": "মনোহরদি"
+        },
+        {
+          "english_name": "Madhabdi",
+          "bangla_name": "মাধবদী"
+        },
+        {
+          "english_name": "Monohordi",
+          "bangla_name": "মনোহরদি"
+        },
+        {
+          "english_name": "Narshingdi Sadar",
+          "bangla_name": "নরসিংদী সদর"
+        },
+        {
+          "english_name": "Palash",
+          "bangla_name": "পলাশ"
+        },
+        {
+          "english_name": "Raypura Upazila North Zone",
+          "bangla_name": "রায়পুরা উপজেলা উত্তর অঞ্চল"
+        },
+        {
+          "english_name": "Raypura Upazila South Zone",
+          "bangla_name": "রায়পুরা উপজেলা দক্ষিণ অঞ্চল"
+        },
+        {
+          "english_name": "Shibpur",
+          "bangla_name": "শিবপুর"
+        }
+      ]
+    },
+    {
+      "district": "Natore",
+      "thana": [
+        {
+          "english_name": "Bagatipara",
+          "bangla_name": "বাগাতিপাড়া"
+        },
+        {
+          "english_name": "Baraigram",
+          "bangla_name": "বড়াইগ্রাম"
+        },
+        {
+          "english_name": "Gopalpur UPO",
+          "bangla_name": "গোপালপুর ইউনিয়ন"
+        },
+        {
+          "english_name": "Gurdaspur",
+          "bangla_name": "গুরুদাসপুর"
+        },
+        {
+          "english_name": "Naldanga - Natore",
+          "bangla_name": "নলডাঙ্গা - নাটোর"
+        },
+        {
+          "english_name": "Natore Sadar",
+          "bangla_name": "নাটোর সদর"
+        },
+        {
+          "english_name": "Singra",
+          "bangla_name": "সিংড়া"
+        }
+      ]
+    },
+    {
+      "district": "Netrokona",
+      "thana": [
+        {
+          "english_name": "Atpara",
+          "bangla_name": "আটপাড়া"
+        },
+        {
+          "english_name": "Barhatta",
+          "bangla_name": "বারহাট্টা"
+        },
+        {
+          "english_name": "Kalmakanda",
+          "bangla_name": "কালমাকান্দা"
+        },
+        {
+          "english_name": "Kendua",
+          "bangla_name": "কেন্দুয়া"
+        },
+        {
+          "english_name": "Khaliajuri",
+          "bangla_name": "খালিয়াজুরি"
+        },
+        {
+          "english_name": "Madan",
+          "bangla_name": "মদন"
+        },
+        {
+          "english_name": "Mohanganj",
+          "bangla_name": "মোহনগঞ্জ"
+        },
+        {
+          "english_name": "Netrokona Sadar",
+          "bangla_name": "নেত্রকোণা সদর"
+        },
+        {
+          "english_name": "Purbadhala",
+          "bangla_name": "পূর্বধলা"
+        },
+        {
+          "english_name": "Susang Durgapur",
+          "bangla_name": "সুসং দুর্গাপুর"
+        }
+      ]
+    },
+    {
+      "district": "Nilphamari",
+      "thana": [
+        {
+          "english_name": "Dimla",
+          "bangla_name": "ডিমলা"
+        },
+        {
+          "english_name": "Domar",
+          "bangla_name": "ডোমার"
+        },
+        {
+          "english_name": "Jaldhaka",
+          "bangla_name": "জলঢাকা"
+        },
+        {
+          "english_name": "Kishoriganj",
+          "bangla_name": "কিশোরীগঞ্জ"
+        },
+        {
+          "english_name": "Nilphamari Sadar",
+          "bangla_name": "নীলফামারী সদর"
+        },
+        {
+          "english_name": "Saidpur",
+          "bangla_name": "সৈয়দপুর"
+        },
+        {
+          "english_name": "Taraganj",
+          "bangla_name": "তারাগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Noakhali",
+      "thana": [
+        {
+          "english_name": "Basurhat",
+          "bangla_name": "বাসুরহাট"
+        },
+        {
+          "english_name": "Begumganj",
+          "bangla_name": "বেগমগঞ্জ"
+        },
+        {
+          "english_name": "Chatkhil",
+          "bangla_name": "চাটখিল"
+        },
+        {
+          "english_name": "Chondrogonj Thana",
+          "bangla_name": "চন্দ্রগঞ্জ থানা"
+        },
+        {
+          "english_name": "Companigonj",
+          "bangla_name": "কোম্পানীগঞ্জ"
+        },
+        {
+          "english_name": "Hatia",
+          "bangla_name": "হাতিয়া"
+        },
+        {
+          "english_name": "Kobirhat",
+          "bangla_name": "কবিরহাট"
+        },
+        {
+          "english_name": "Maizdee",
+          "bangla_name": "মাইজদী"
+        },
+        {
+          "english_name": "Noakhali Sadar",
+          "bangla_name": "নোয়াখালী সদর"
+        },
+        {
+          "english_name": "Senbag",
+          "bangla_name": "সেনবাগ"
+        },
+        {
+          "english_name": "Sonaimuri",
+          "bangla_name": "সোনাইমুড়ি"
+        },
+        {
+          "english_name": "Sonapur",
+          "bangla_name": "সোনাপুর"
+        },
+        {
+          "english_name": "Subornochar",
+          "bangla_name": "সুবর্ণচর"
+        }
+      ]
+    },
+    {
+      "district": "Pabna",
+      "thana": [
+        {
+          "english_name": "Aminpur",
+          "bangla_name": "আমিনপুর"
+        },
+        {
+          "english_name": "Ataikula",
+          "bangla_name": "আতাইকুলা"
+        },
+        {
+          "english_name": "Atghoria",
+          "bangla_name": "আটঘরিয়া"
+        },
+        {
+          "english_name": "Bera",
+          "bangla_name": "বেড়া"
+        },
+        {
+          "english_name": "Bhangura",
+          "bangla_name": "ভাঙ্গুরা"
+        },
+        {
+          "english_name": "Chatmohar",
+          "bangla_name": "চাটমোহর"
+        },
+        {
+          "english_name": "Ishwardi",
+          "bangla_name": "ঈশ্বরদী"
+        },
+        {
+          "english_name": "Kasinathpur",
+          "bangla_name": "কাসিনাথপুর"
+        },
+        {
+          "english_name": "Lalpur",
+          "bangla_name": "লালপুর"
+        },
+        {
+          "english_name": "Pabna Sadar",
+          "bangla_name": "পাবনা সদর"
+        },
+        {
+          "english_name": "Pabna-Faridpur",
+          "bangla_name": "পাবনা-ফরিদপুর"
+        },
+        {
+          "english_name": "Sathia",
+          "bangla_name": "সাথিয়া"
+        },
+        {
+          "english_name": "Sujanagar",
+          "bangla_name": "সুজানগর"
+        },
+        {
+          "english_name": "Tebunia",
+          "bangla_name": "তেবুনিয়া"
+        }
+      ]
+    },
+    {
+      "district": "Panchagarh",
+      "thana": [
+        {
+          "english_name": "Atwari",
+          "bangla_name": "আটওয়ারী"
+        },
+        {
+          "english_name": "Boda",
+          "bangla_name": "বোদা"
+        },
+        {
+          "english_name": "Debiganj",
+          "bangla_name": "দেবীগঞ্জ"
+        },
+        {
+          "english_name": "Panchagarh Sadar",
+          "bangla_name": "পঞ্চগড় সদর"
+        },
+        {
+          "english_name": "Tetulia",
+          "bangla_name": "তেতুলিয়া"
+        }
+      ]
+    },
+    {
+      "district": "Patuakhali",
+      "thana": [
+        {
+          "english_name": "Bauphal",
+          "bangla_name": "বাউফল"
+        },
+        {
+          "english_name": "Dashmina",
+          "bangla_name": "দশমিনা"
+        },
+        {
+          "english_name": "Dumkee",
+          "bangla_name": "দুমকী"
+        },
+        {
+          "english_name": "Gala chipa",
+          "bangla_name": "গালা চিপা"
+        },
+        {
+          "english_name": "Kala para",
+          "bangla_name": "কালা পাড়া"
+        },
+        {
+          "english_name": "Khepupara",
+          "bangla_name": "খেপুপাড়া"
+        },
+        {
+          "english_name": "Mohipur",
+          "bangla_name": "মহিপুর"
+        },
+        {
+          "english_name": "Patuakhali Sadar",
+          "bangla_name": "পটুয়াখালী সদর"
+        },
+        {
+          "english_name": "Subidkhali",
+          "bangla_name": "সুবিদখালি"
+        }
+      ]
+    },
+    {
+      "district": "Pirojpur",
+      "thana": [
+        {
+          "english_name": "Bhandaria",
+          "bangla_name": "ভান্ডারিয়া"
+        },
+        {
+          "english_name": "Mathbaria",
+          "bangla_name": "মাথবাড়িয়া"
+        },
+        {
+          "english_name": "Nazirpur",
+          "bangla_name": "নাজিরপুর"
+        },
+        {
+          "english_name": "Pirojpur Sadar",
+          "bangla_name": "পিরোজপুর সদর"
+        },
+        {
+          "english_name": "Swarupkathi",
+          "bangla_name": "স্বরূপকাঠী"
+        },
+        {
+          "english_name": "Kaukhali",
+          "bangla_name": "কাউখালি"
+        }
+      ]
+    },
+    {
+      "district": "Rajbari",
+      "thana": [
+        {
+          "english_name": "Baliakandi",
+          "bangla_name": "বালিয়াকান্দি"
+        },
+        {
+          "english_name": "Goalanda",
+          "bangla_name": "গোয়ালন্দ"
+        },
+        {
+          "english_name": "Kalukhali",
+          "bangla_name": "কালুখালি"
+        },
+        {
+          "english_name": "Pangsha",
+          "bangla_name": "পাংশা"
+        },
+        {
+          "english_name": "Rajbari Sadar",
+          "bangla_name": "রাজবাড়ী সদর"
+        }
+      ]
+    },
+    {
+      "district": "Rajshahi",
+      "thana": [
+        {
+          "english_name": "Bagha",
+          "bangla_name": "বাঘা"
+        },
+        {
+          "english_name": "Bagmara",
+          "bangla_name": "বাগমারা"
+        },
+        {
+          "english_name": "Banseshwar",
+          "bangla_name": "বাঁশেশ্বর"
+        },
+        {
+          "english_name": "Charghat",
+          "bangla_name": "চারঘাট"
+        },
+        {
+          "english_name": "Durgapur",
+          "bangla_name": "দুর্গাপুর"
+        },
+        {
+          "english_name": "Godagari",
+          "bangla_name": "গোদাগাড়ী"
+        },
+        {
+          "english_name": "Katakhali",
+          "bangla_name": "কাটাখালি"
+        },
+        {
+          "english_name": "Mohonpur",
+          "bangla_name": "মোহনপুর"
+        },
+        {
+          "english_name": "Motihar",
+          "bangla_name": "মোতিহার"
+        },
+        {
+          "english_name": "Paba",
+          "bangla_name": "পবা"
+        },
+        {
+          "english_name": "Puthia",
+          "bangla_name": "পুঠিয়া"
+        },
+        {
+          "english_name": "Rajpara",
+          "bangla_name": "রাজপাড়া"
+        },
+        {
+          "english_name": "Rajshahi Sadar (Boalia)",
+          "bangla_name": "রাজশাহী সদর (বোয়ালিয়া)"
+        },
+        {
+          "english_name": "Shah Mokdum",
+          "bangla_name": "শাহ মকদুম"
+        },
+        {
+          "english_name": "Sharda",
+          "bangla_name": "শারদা"
+        },
+        {
+          "english_name": "Taherpur",
+          "bangla_name": "তাহেরপুর"
+        },
+        {
+          "english_name": "Tanor",
+          "bangla_name": "তানোর"
+        }
+      ]
+    },
+    {
+      "district": "Rangamati",
+      "thana": [
+        {
+          "english_name": "Kaptai",
+          "bangla_name": "কাপ্তাই"
+        },
+        {
+          "english_name": "Kawkhali Thana",
+          "bangla_name": "কাউখালি থানা"
+        },
+        {
+          "english_name": "Kotwali Thana",
+          "bangla_name": "কোতোয়ালী থানা"
+        },
+        {
+          "english_name": "Nanichhar",
+          "bangla_name": "নানিছড়"
+        },
+        {
+          "english_name": "Rajasthali",
+          "bangla_name": "রাজাস্থলি"
+        }
+      ]
+    },
+    {
+      "district": "Rangpur",
+      "thana": [
+        {
+          "english_name": "Badarganj",
+          "bangla_name": "বদরগঞ্জ"
+        },
+        {
+          "english_name": "Gangachara",
+          "bangla_name": "গঙ্গাচড়া"
+        },
+        {
+          "english_name": "Haragach Thana",
+          "bangla_name": "হারাগাছা থানা"
+        },
+        {
+          "english_name": "Kaunia",
+          "bangla_name": "কাউনিয়া"
+        },
+        {
+          "english_name": "Mahiganj Thana",
+          "bangla_name": "মাহিগঞ্জ থানা"
+        },
+        {
+          "english_name": "Mithapukur",
+          "bangla_name": "মিঠাপুকুর"
+        },
+        {
+          "english_name": "Pirgachha",
+          "bangla_name": "পীরগাছা"
+        },
+        {
+          "english_name": "Pirganj Thana",
+          "bangla_name": "পীরগঞ্জ থানা"
+        },
+        {
+          "english_name": "Porshurampur Thana",
+          "bangla_name": "পরশুরামপুর থানা"
+        },
+        {
+          "english_name": "Rangpur Cantonment",
+          "bangla_name": "রংপুর ক্যান্টনমেন্ট"
+        },
+        {
+          "english_name": "Rangpur Sadar(Kotowali Thana)",
+          "bangla_name": "রংপুর সদর (কোতোয়ালী থানা)"
+        },
+        {
+          "english_name": "Tajhat Thana",
+          "bangla_name": "তাজহাট থানা"
+        }
+      ]
+    },
+    {
+      "district": "Satkhira",
+      "thana": [
+        {
+          "english_name": "Ashashuni Thana",
+          "bangla_name": "আশাশুনি থানা"
+        },
+        {
+          "english_name": "Debhata Thana",
+          "bangla_name": "দেবহাটা থানা"
+        },
+        {
+          "english_name": "Kalaroa",
+          "bangla_name": "কলারোয়া"
+        },
+        {
+          "english_name": "Kaliganj",
+          "bangla_name": "কালীগঞ্জ"
+        },
+        {
+          "english_name": "Satkhira Sadar",
+          "bangla_name": "সাতক্ষীরা সদর"
+        },
+        {
+          "english_name": "Shymnagar",
+          "bangla_name": "শ্যামনগর"
+        },
+        {
+          "english_name": "Tala Thana",
+          "bangla_name": "তালা থানা"
+        }
+      ]
+    },
+    {
+      "district": "Shariatpur",
+      "thana": [
+        {
+          "english_name": "Bhedorganj",
+          "bangla_name": "ভেদরগঞ্জ"
+        },
+        {
+          "english_name": "Damudhya",
+          "bangla_name": "দামুধ্য"
+        },
+        {
+          "english_name": "Gosairhat",
+          "bangla_name": "গোসাইরহাট"
+        },
+        {
+          "english_name": "Jajira",
+          "bangla_name": "জাজিরা"
+        },
+        {
+          "english_name": "Naria",
+          "bangla_name": "নারিয়া"
+        },
+        {
+          "english_name": "Shakhipur",
+          "bangla_name": "শাখিপুর"
+        },
+        {
+          "english_name": "Shariatpur Sadar (Palong)",
+          "bangla_name": "শরিয়তপুর সদর (পালং)"
+        }
+      ]
+    },
+    {
+      "district": "Sherpur",
+      "thana": [
+        {
+          "english_name": "Jhinaigati",
+          "bangla_name": "ঝিনাইগাতী"
+        },
+        {
+          "english_name": "Nakla",
+          "bangla_name": "নাকলা"
+        },
+        {
+          "english_name": "Nalitabari",
+          "bangla_name": "নালিতাবাড়ী"
+        },
+        {
+          "english_name": "Sherpur Sadar",
+          "bangla_name": "শেরপুর সদর"
+        },
+        {
+          "english_name": "Sreebardi",
+          "bangla_name": "শ্রীবরদী"
+        }
+      ]
+    },
+    {
+      "district": "Sirajganj",
+      "thana": [
+        {
+          "english_name": "Belkuchi",
+          "bangla_name": "বেলকুচি"
+        },
+        {
+          "english_name": "Chowhali",
+          "bangla_name": "চৌহালি"
+        },
+        {
+          "english_name": "Kamarkhanda",
+          "bangla_name": "কামারখন্দ"
+        },
+        {
+          "english_name": "Kazipur",
+          "bangla_name": "কাজীপুর"
+        },
+        {
+          "english_name": "Rayganj",
+          "bangla_name": "রায়গঞ্জ"
+        },
+        {
+          "english_name": "Salonga",
+          "bangla_name": "সালঙ্গা"
+        },
+        {
+          "english_name": "Shahjadpur",
+          "bangla_name": "শাহজাদপুর"
+        },
+        {
+          "english_name": "Sirajganj Sadar",
+          "bangla_name": "সিরাজগঞ্জ সদর"
+        },
+        {
+          "english_name": "Tarash",
+          "bangla_name": "তারাশ"
+        },
+        {
+          "english_name": "Ullapara",
+          "bangla_name": "উল্লাপাড়া"
+        }
+      ]
+    },
+    {
+      "district": "Sunamganj",
+      "thana": [
+        {
+          "english_name": "Bishwamvarpur",
+          "bangla_name": "বিশ্বম্ভরপুর"
+        },
+        {
+          "english_name": "Chhatak",
+          "bangla_name": "ছাতক"
+        },
+        {
+          "english_name": "Derai",
+          "bangla_name": "দেড়াই"
+        },
+        {
+          "english_name": "Dharmapasha",
+          "bangla_name": "ধর্মপাশা"
+        },
+        {
+          "english_name": "Dowarabazar",
+          "bangla_name": "দোয়ারাবাজার"
+        },
+        {
+          "english_name": "Jagnnathpur",
+          "bangla_name": "জগন্নাথপুর"
+        },
+        {
+          "english_name": "Jamalganj",
+          "bangla_name": "জামালগঞ্জ"
+        },
+        {
+          "english_name": "Salla",
+          "bangla_name": "সাল্লা"
+        },
+        {
+          "english_name": "Shantiganj",
+          "bangla_name": "শান্তিগঞ্জ"
+        },
+        {
+          "english_name": "Sunamganj Sadar",
+          "bangla_name": "সুনামগঞ্জ সদর"
+        },
+        {
+          "english_name": "Tahirpur",
+          "bangla_name": "তাহিরপুর"
+        }
+      ]
+    },
+    {
+      "district": "Sylhet",
+      "thana": [
+        {
+          "english_name": "Balaganj",
+          "bangla_name": "বালাগঞ্জ"
+        },
+        {
+          "english_name": "Beanibazar",
+          "bangla_name": "বিয়ানীবাজার"
+        },
+        {
+          "english_name": "Bishwanath",
+          "bangla_name": "বিশ্বনাথ"
+        },
+        {
+          "english_name": "Companyganj",
+          "bangla_name": "কোম্পানিগঞ্জ"
+        },
+        {
+          "english_name": "Dakshin Surma",
+          "bangla_name": "দক্ষিণ সুরমা"
+        },
+        {
+          "english_name": "Fenchuganj",
+          "bangla_name": "ফেঞ্চুগঞ্জ"
+        },
+        {
+          "english_name": "Golapganj",
+          "bangla_name": "গোলাপগঞ্জ"
+        },
+        {
+          "english_name": "Gowainghat",
+          "bangla_name": "গোয়াইনঘাট"
+        },
+        {
+          "english_name": "Jaintapur",
+          "bangla_name": "জৈন্তাপুর"
+        },
+        {
+          "english_name": "Kanaighat",
+          "bangla_name": "কানাইঘাট"
+        },
+        {
+          "english_name": "Osmani Nagar",
+          "bangla_name": "ওসমানী নগর"
+        },
+        {
+          "english_name": "Sylhet Sadar",
+          "bangla_name": "সিলেট সদর"
+        },
+        {
+          "english_name": "Zakiganj",
+          "bangla_name": "জকিগঞ্জ"
+        }
+      ]
+    },
+    {
+      "district": "Tangail",
+      "thana": [
+        {
+          "english_name": "Bashail",
+          "bangla_name": "বাশাইল"
+        },
+        {
+          "english_name": "Bhuapur",
+          "bangla_name": "ভূপুর"
+        },
+        {
+          "english_name": "Delduar",
+          "bangla_name": "দেলদুয়ার"
+        },
+        {
+          "english_name": "Dhanbari",
+          "bangla_name": "ধনবাড়ি"
+        },
+        {
+          "english_name": "Ghatail",
+          "bangla_name": "ঘাটাইল"
+        },
+        {
+          "english_name": "Gopalpur",
+          "bangla_name": "গোপালপুর"
+        },
+        {
+          "english_name": "Kalihati",
+          "bangla_name": "কালিহাতী"
+        },
+        {
+          "english_name": "Madhupur",
+          "bangla_name": "মধুপুর"
+        },
+        {
+          "english_name": "Mirzapur",
+          "bangla_name": "মির্জাপুর"
+        },
+        {
+          "english_name": "Nagarpur",
+          "bangla_name": "নগরপুর"
+        },
+        {
+          "english_name": "Sakhipur",
+          "bangla_name": "সখিপুর"
+        },
+        {
+          "english_name": "Tangail Sadar",
+          "bangla_name": "টাঙ্গাইল সদর"
+        }
+      ]
+    },
+    {
+      "district": "Thakurgaon",
+      "thana": [
+        {
+          "english_name": "Baliadangi",
+          "bangla_name": "বালিয়াডাঙ্গী"
+        },
+        {
+          "english_name": "Haripur",
+          "bangla_name": "হরিপুর"
+        },
+        {
+          "english_name": "Pirganj",
+          "bangla_name": "পীরগঞ্জ"
+        },
+        {
+          "english_name": "Ranisankail",
+          "bangla_name": "রাণীসংকইল"
+        },
+        {
+          "english_name": "Ruhiya",
+          "bangla_name": "রুহিয়া"
+        },
+        {
+          "english_name": "Thakurgaon Sadar",
+          "bangla_name": "ঠাকুরগাঁও সদর"
+        }
+      ]
+    }
+  ]
+}
