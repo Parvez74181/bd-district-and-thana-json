@@ -55,6 +55,25 @@ axios.get('bd-district-and-thana.json')
   });
 ```
 
+```javascript
+// Example using fetch
+fetch('bd-district-and-thana.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(data => {
+    // Work with the data
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error fetching district data:', error);
+  });
+
+```
+
 ## Contributing
 
 Contributions to improve the data or add more details are welcome! If you find any errors or missing information, please open an issue or submit a pull request with your changes.
