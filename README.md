@@ -45,7 +45,7 @@ You can use this data in your projects by fetching the JSON file from this repos
 
 ```javascript
 // Example using Axios (assuming you're using a frontend framework or Node.js)
-axios.get('district.json')
+axios.get('bd-district-and-thana.json')
   .then(response => {
     const districtData = response.data;
     // Use the data as needed
