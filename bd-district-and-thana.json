@@ -1,7 +1,7 @@
 {
   "districts": [
     {
-      "district": "B.Baria",
+      "district": "Brahmanbaria",
       "thana": [
         {
           "english_name": "Akhaura",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "district": "Barisal",
+      "district": "Barishal",
       "thana": [
         {
           "english_name": "Agailzhara",
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "district": "Bogra",
+      "district": "Bogura",
       "thana": [
         {
           "english_name": "Adamdighi",
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "district": "Chapainawabganj",
+      "district": "Chapai Nawabganj",
       "thana": [
         {
           "english_name": "Bholahat",
