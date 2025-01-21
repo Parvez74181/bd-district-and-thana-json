@@ -15,7 +15,9 @@ The JSON data is organized as follows:
 {
   "districts": [
     {
-      "district": "District Name",
+      "districtEn": "District Name",
+      "districtBn": "ডিস্ট্রিকট বাংলা নাম",
+
       "thana": [
         {
           "english_name": "Thana English Name",
