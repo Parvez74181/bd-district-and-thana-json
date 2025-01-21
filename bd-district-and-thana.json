@@ -1,7 +1,8 @@
 {
   "districts": [
     {
-      "district": "Brahmanbaria",
+      "districtEn": "Brahmanbaria",
+      "districtBn": "ব্রাহ্মণবাড়িয়া",
       "thana": [
         {
           "english_name": "Akhaura",
@@ -42,7 +43,8 @@
       ]
     },
     {
-      "district": "Bagerhat",
+      "districtEn": "Bagerhat",
+      "districtBn": "বাঘেরহাট",
       "thana": [
         {
           "english_name": "Bagerhat Sadar",
@@ -87,7 +89,8 @@
       ]
     },
     {
-      "district": "Bandarban",
+      "districtEn": "Bandarban",
+      "districtBn": "বান্দরবন",
       "thana": [
         {
           "english_name": "Alikadam",
@@ -124,7 +127,8 @@
       ]
     },
     {
-      "district": "Barguna",
+      "districtEn": "Barguna",
+      "districtBn": "বরগুনা",
       "thana": [
         {
           "english_name": "Amtoly",
@@ -153,7 +157,8 @@
       ]
     },
     {
-      "district": "Barishal",
+      "districtEn": "Barishal",
+      "districtBn": "বরিশাল",
       "thana": [
         {
           "english_name": "Agailzhara",
@@ -206,7 +211,8 @@
       ]
     },
     {
-      "district": "Bhola",
+      "districtEn": "Bhola",
+      "districtBn": "ভোলা",
       "thana": [
         {
           "english_name": "Bhola Sadar",
@@ -239,7 +245,8 @@
       ]
     },
     {
-      "district": "Bogura",
+      "districtEn": "Bogura",
+      "districtBn": "বগুড়া",
       "thana": [
         {
           "english_name": "Adamdighi",
@@ -296,7 +303,8 @@
       ]
     },
     {
-      "district": "Chandpur",
+      "districtEn": "Chandpur",
+      "districtBn": "চাঁদপুর",
       "thana": [
         {
           "english_name": "Chandpur Sadar",
@@ -333,7 +341,8 @@
       ]
     },
     {
-      "district": "Chapai Nawabganj",
+      "districtEn": "Chapai Nawabganj",
+      "districtBn": "চাঁপাইনওয়াবগঞ্জ",
       "thana": [
         {
           "english_name": "Bholahat",
@@ -358,7 +367,8 @@
       ]
     },
     {
-      "district": "Chattogram",
+      "districtEn": "Chattogram",
+      "districtBn": "চট্টগ্রাম",
       "thana": [
         {
           "english_name": "Khulshi",
@@ -527,7 +537,8 @@
       ]
     },
     {
-      "district": "Chuadanga",
+      "districtEn": "Chuadanga",
+      "districtBn": "চূয়াডাঙ্গা",
       "thana": [
         {
           "english_name": "Alamdanga",
@@ -556,7 +567,8 @@
       ]
     },
     {
-      "district": "Cox's Bazar",
+      "districtEn": "Cox's Bazar",
+      "districtBn": "কক্স বাজার",
       "thana": [
         {
           "english_name": "Chakaria",
@@ -597,7 +609,8 @@
       ]
     },
     {
-      "district": "Cumilla",
+      "districtEn": "Cumilla",
+      "districtBn": "কুমিল্লা",
       "thana": [
         {
           "english_name": "B.Para",
@@ -702,7 +715,8 @@
       ]
     },
     {
-      "district": "Dhaka",
+      "districtEn": "Dhaka",
+      "districtBn": "ঢাকা",
       "thana": [
         {
           "english_name": "Dhamrai , Savar",
@@ -1613,7 +1627,7 @@
           "bangla_name": "কাফরুল"
         },
         {
-          "english_name": "kamranggirchar",
+          "english_name": "kamrangir char",
           "bangla_name": "কামরাঙ্গিরচর"
         },
         {
@@ -1651,7 +1665,8 @@
       ]
     },
     {
-      "district": "Dinajpur",
+      "districtEn": "Dinajpur",
+      "districtBn": "দিনাজপুর",
       "thana": [
         {
           "english_name": "Biral",
@@ -1708,7 +1723,8 @@
       ]
     },
     {
-      "district": "Faridpur",
+      "districtEn": "Faridpur",
+      "districtBn": "ফরিদপুর",
       "thana": [
         {
           "english_name": "Alfadanga",
@@ -1749,7 +1765,8 @@
       ]
     },
     {
-      "district": "Feni",
+      "districtEn": "Feni",
+      "districtBn": "ফেনি",
       "thana": [
         {
           "english_name": "Chhagalnaiya",
@@ -1778,7 +1795,8 @@
       ]
     },
     {
-      "district": "Gaibandha",
+      "districtEn": "Gaibandha",
+      "districtBn": "গাইবান্ধা",
       "thana": [
         {
           "english_name": "Fulchhari",
@@ -1811,7 +1829,8 @@
       ]
     },
     {
-      "district": "Gazipur",
+      "districtEn": "Gazipur",
+      "districtBn": "গাজীপুর",
       "thana": [
         {
           "english_name": "Amraid",
@@ -1928,7 +1947,8 @@
       ]
     },
     {
-      "district": "Gopalganj",
+      "districtEn": "Gopalganj",
+      "districtBn": "গোপালগঞ্জ",
       "thana": [
         {
           "english_name": "Gopalganj Sadar",
@@ -1953,7 +1973,8 @@
       ]
     },
     {
-      "district": "Habiganj",
+      "districtEn": "Habiganj",
+      "districtBn": "হবিগঞ্জ",
       "thana": [
         {
           "english_name": "Azmireeganj",
@@ -1990,7 +2011,8 @@
       ]
     },
     {
-      "district": "Jamalpur",
+      "districtEn": "Jamalpur",
+      "districtBn": "জামালপুর",
       "thana": [
         {
           "english_name": "Bakshiganj",
@@ -2023,7 +2045,8 @@
       ]
     },
     {
-      "district": "Jashore",
+      "districtEn": "Jashore",
+      "districtBn": "যশোর",
       "thana": [
         {
           "english_name": "Bagharpara",
@@ -2064,7 +2087,8 @@
       ]
     },
     {
-      "district": "Jhalokati",
+      "districtEn": "Jhalokati",
+      "districtBn": "ঝালকাঠি",
       "thana": [
         {
           "english_name": "Jhalokathi Sadar",
@@ -2085,7 +2109,8 @@
       ]
     },
     {
-      "district": "Jhenaidah",
+      "districtEn": "Jhenaidah",
+      "districtBn": "ঝিনাইদহ",
       "thana": [
         {
           "english_name": "Harinakundu",
@@ -2114,7 +2139,8 @@
       ]
     },
     {
-      "district": "Joypurhat",
+      "districtEn": "Joypurhat",
+      "districtBn": "জয়পুরহাট",
       "thana": [
         {
           "english_name": "Akkelpur",
@@ -2139,7 +2165,8 @@
       ]
     },
     {
-      "district": "Khagrachari",
+      "districtEn": "Khagrachari",
+      "districtBn": "খাগড়াছড়ি",
       "thana": [
         {
           "english_name": "Bagaichari",
@@ -2196,7 +2223,8 @@
       ]
     },
     {
-      "district": "Khulna",
+      "districtEn": "Khulna",
+      "districtBn": "খুলনা",
       "thana": [
         {
           "english_name": "Batiaghata",
@@ -2269,7 +2297,8 @@
       ]
     },
     {
-      "district": "Kishoreganj",
+      "districtEn": "Kishoreganj",
+      "districtBn": "কিশোরগঞ্জ",
       "thana": [
         {
           "english_name": "Astagram",
@@ -2326,7 +2355,8 @@
       ]
     },
     {
-      "district": "Kurigram",
+      "districtEn": "Kurigram",
+      "districtBn": "কুড়িগ্রাম",
       "thana": [
         {
           "english_name": "Bhurungamari",
@@ -2367,7 +2397,8 @@
       ]
     },
     {
-      "district": "Kushtia",
+      "districtEn": "Kushtia",
+      "districtBn": "কুষ্টিয়া",
       "thana": [
         {
           "english_name": "Kushtia-Mirpur",
@@ -2400,7 +2431,8 @@
       ]
     },
     {
-      "district": "Lakshmipur",
+      "districtEn": "Lakshmipur",
+      "districtBn": "লক্ষীপুর",
       "thana": [
         {
           "english_name": "Komalnagar",
@@ -2425,7 +2457,8 @@
       ]
     },
     {
-      "district": "Lalmonirhat",
+      "districtEn": "Lalmonirhat",
+      "districtBn": "লালমনিরহাট",
       "thana": [
         {
           "english_name": "Aditmari",
@@ -2450,7 +2483,8 @@
       ]
     },
     {
-      "district": "Madaripur",
+      "districtEn": "Madaripur",
+      "districtBn": "মাদারীপুর",
       "thana": [
         {
           "english_name": "Dasar Thana",
@@ -2475,7 +2509,8 @@
       ]
     },
     {
-      "district": "Magura",
+      "districtEn": "Magura",
+      "districtBn": "মাগুরা",
       "thana": [
         {
           "english_name": "Magura Sadar",
@@ -2496,7 +2531,8 @@
       ]
     },
     {
-      "district": "Manikganj",
+      "districtEn": "Manikganj",
+      "districtBn": "মানিকগঞ্জ",
       "thana": [
         {
           "english_name": "ANGAR PARA",
@@ -2545,7 +2581,8 @@
       ]
     },
     {
-      "district": "Meherpur",
+      "districtEn": "Meherpur",
+      "districtBn": "মেহেরপুর",
       "thana": [
         {
           "english_name": "Gangni",
@@ -2562,7 +2599,8 @@
       ]
     },
     {
-      "district": "Moulvibazar",
+      "districtEn": "Moulvibazar",
+      "districtBn": "মৌলভীবাজার",
       "thana": [
         {
           "english_name": "Baralekha",
@@ -2595,7 +2633,8 @@
       ]
     },
     {
-      "district": "Munshiganj",
+      "districtEn": "Munshiganj",
+      "districtBn": "মুন্সিগঞ্জ",
       "thana": [
         {
           "english_name": "Gazaria",
@@ -2624,7 +2663,8 @@
       ]
     },
     {
-      "district": "Mymensingh",
+      "districtEn": "Mymensingh",
+      "districtBn": "ময়মনসিংহ",
       "thana": [
         {
           "english_name": "Bhaluka",
@@ -2685,7 +2725,8 @@
       ]
     },
     {
-      "district": "Naogaon",
+      "districtEn": "Naogaon",
+      "districtBn": "নঁওগা",
       "thana": [
         {
           "english_name": "Atrai",
@@ -2734,7 +2775,8 @@
       ]
     },
     {
-      "district": "Narail",
+      "districtEn": "Narail",
+      "districtBn": "নড়াইল",
       "thana": [
         {
           "english_name": "Kalia",
@@ -2755,7 +2797,8 @@
       ]
     },
     {
-      "district": "Narayanganj",
+      "districtEn": "Narayanganj",
+      "districtBn": "নারায়ণগঞ্জ",
       "thana": [
         {
           "english_name": "2 no gate",
@@ -2996,7 +3039,8 @@
       ]
     },
     {
-      "district": "Narsingdi",
+      "districtEn": "Narsingdi",
+      "districtBn": "নরসিংদী",
       "thana": [
         {
           "english_name": "Belabo",
@@ -3045,7 +3089,8 @@
       ]
     },
     {
-      "district": "Natore",
+      "districtEn": "Natore",
+      "districtBn": "নাটোর",
       "thana": [
         {
           "english_name": "Bagatipara",
@@ -3078,7 +3123,8 @@
       ]
     },
     {
-      "district": "Netrokona",
+      "districtEn": "Netrokona",
+      "districtBn": "নেত্রকোণা",
       "thana": [
         {
           "english_name": "Atpara",
@@ -3123,7 +3169,8 @@
       ]
     },
     {
-      "district": "Nilphamari",
+      "districtEn": "Nilphamari",
+      "districtBn": "নীলফামারী",
       "thana": [
         {
           "english_name": "Dimla",
@@ -3156,7 +3203,8 @@
       ]
     },
     {
-      "district": "Noakhali",
+      "districtEn": "Noakhali",
+      "districtBn": "নোয়াখালী",
       "thana": [
         {
           "english_name": "Basurhat",
@@ -3213,7 +3261,8 @@
       ]
     },
     {
-      "district": "Pabna",
+      "districtEn": "Pabna",
+      "districtBn": "পাবনা",
       "thana": [
         {
           "english_name": "Aminpur",
@@ -3274,7 +3323,8 @@
       ]
     },
     {
-      "district": "Panchagarh",
+      "districtEn": "Panchagarh",
+      "districtBn": "পঞ্চগড়",
       "thana": [
         {
           "english_name": "Atwari",
@@ -3299,7 +3349,8 @@
       ]
     },
     {
-      "district": "Patuakhali",
+      "districtEn": "Patuakhali",
+      "districtBn": "পটুয়াখালি",
       "thana": [
         {
           "english_name": "Bauphal",
@@ -3340,7 +3391,8 @@
       ]
     },
     {
-      "district": "Pirojpur",
+      "districtEn": "Pirojpur",
+      "districtBn": "পিরোজপুর",
       "thana": [
         {
           "english_name": "Bhandaria",
@@ -3369,7 +3421,8 @@
       ]
     },
     {
-      "district": "Rajbari",
+      "districtEn": "Rajbari",
+      "districtBn": "রাজবাড়ি",
       "thana": [
         {
           "english_name": "Baliakandi",
@@ -3394,7 +3447,8 @@
       ]
     },
     {
-      "district": "Rajshahi",
+      "districtEn": "Rajshahi",
+      "districtBn": "রাজশাহি",
       "thana": [
         {
           "english_name": "Bagha",
@@ -3467,7 +3521,8 @@
       ]
     },
     {
-      "district": "Rangamati",
+      "districtEn": "Rangamati",
+      "districtBn": "রাঙ্গামাটি",
       "thana": [
         {
           "english_name": "Kaptai",
@@ -3492,7 +3547,8 @@
       ]
     },
     {
-      "district": "Rangpur",
+      "districtEn": "Rangpur",
+      "districtBn": "রংপুর",
       "thana": [
         {
           "english_name": "Badarganj",
@@ -3545,7 +3601,8 @@
       ]
     },
     {
-      "district": "Satkhira",
+      "districtEn": "Satkhira",
+      "districtBn": "সাতক্ষীরা",
       "thana": [
         {
           "english_name": "Ashashuni Thana",
@@ -3578,7 +3635,8 @@
       ]
     },
     {
-      "district": "Shariatpur",
+      "districtEn": "Shariatpur",
+      "districtBn": "শরীয়তপুর",
       "thana": [
         {
           "english_name": "Bhedorganj",
@@ -3611,7 +3669,8 @@
       ]
     },
     {
-      "district": "Sherpur",
+      "districtEn": "Sherpur",
+      "districtBn": "শেরপুর",
       "thana": [
         {
           "english_name": "Jhinaigati",
@@ -3636,7 +3695,8 @@
       ]
     },
     {
-      "district": "Sirajganj",
+      "districtEn": "Sirajganj",
+      "districtBn": "সিরাজগঞ্জ",
       "thana": [
         {
           "english_name": "Belkuchi",
@@ -3681,7 +3741,8 @@
       ]
     },
     {
-      "district": "Sunamganj",
+      "districtEn": "Sunamganj",
+      "districtBn": "সুনামগঞ্জ",
       "thana": [
         {
           "english_name": "Bishwamvarpur",
@@ -3730,7 +3791,8 @@
       ]
     },
     {
-      "district": "Sylhet",
+      "districtEn": "Sylhet",
+      "districtBn": "সিলেট",
       "thana": [
         {
           "english_name": "Balaganj",
@@ -3787,7 +3849,8 @@
       ]
     },
     {
-      "district": "Tangail",
+      "districtEn": "Tangail",
+      "districtBn": "টাঙ্গাইল",
       "thana": [
         {
           "english_name": "Bashail",
@@ -3840,7 +3903,8 @@
       ]
     },
     {
-      "district": "Thakurgaon",
+      "districtEn": "Thakurgaon",
+      "districtBn": "ঠাকুরগাঁও",
       "thana": [
         {
           "english_name": "Baliadangi",
